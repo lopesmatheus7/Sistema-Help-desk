@@ -1,0 +1,8 @@
+[22-Feb-2024 23:47:48 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home2/hercul27/public_html/wp-admin/includes/file.php:16
+Stack trace:
+#0 {main}
+  thrown in /home2/hercul27/public_html/wp-admin/includes/file.php on line 16
+[26-Feb-2024 15:30:13 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home2/hercul27/public_html/wp-admin/includes/file.php:16
+Stack trace:
+#0 {main}
+  thrown in /home2/hercul27/public_html/wp-admin/includes/file.php on line 16

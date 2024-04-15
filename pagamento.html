@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Formulário de Pagamento Pix</title>
+</head>
+<body>
+
+    <h1>Formulário de Pagamento Pix</h1>
+
+    <form id="paymentForm">
+        <label for="transactionAmount">Valor:</label>
+        <input type="text" id="transactionAmount" name="transactionAmount" required>
+        <br>
+        <label for="description">Descrição:</label>
+        <input type="text" id="description" name="description" required>
+        <br>
+        <button type="button" onclick="generateQrCode()">Gerar QR Code</button>
+    </form>
+
+    <div id="qrCodeContainer"></div>
+
+    <script src="https://code.jquery.com/jquery-3.6.4.min.js"></script>
+    <script src="https://secure.mlstatic.com/sdk/javascript/v1/mercadopago.js"></script>
+
+    <script>
+        const publicKey = 'APP_USR-d85d2829-5a09-4cf9-9471-9c1e6fb1ac9a'; // Substitua pela sua chave pública do Mercado Pago
+        const accessToken = 'APP_USR-1339117874084508-011917-62976966b883a3170a6481041a162051-449681058'; // Substitua pela sua chave de acesso do Mercado Pago
+
+        Mercadopago.setPublishableKey(publicKey);
+
+        function generateQrCode() {
+            const transactionAmount = document.getElementById('transactionAmount').value;
+            const description = document.getElementById('description').value;
+
+            const paymentData = {
+                transaction_amount: parseFloat(transactionAmount),
+                description: description,
+                payment_method_id: 'pix',
+            };
+
+            fetch('https://api.mercadopago.com/instore/qr/seller/collectors/USER_ID/checkout/preferences', {
+                method: 'POST',
+                headers: {
+                    'Content-Type': 'application/json',
+                    'Authorization': 'Bearer ' + accessToken,
+                },
+                body: JSON.stringify(paymentData),
+            })
+            .then(response => response.json())
+            .then(data => {
+                const qrCodeUrl = data.response.qr_code.image;
+                displayQrCode(qrCodeUrl);
+            })
+            .catch(error => {
+                console.error('Erro ao gerar QR Code:', error);
+            });
+        }
+
+        function displayQrCode(qrCodeUrl) {
+            const qrCodeContainer = document.getElementById('qrCodeContainer');
+            qrCodeContainer.innerHTML = `<img src="${qrCodeUrl}" alt="QR Code">`;
+        }
+    </script>
+
+</body>
+</html>

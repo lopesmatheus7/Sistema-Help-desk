@@ -1,0 +1,4 @@
+RewriteEngine on
+
+RewriteRule ^login ./index.php [NC]
+

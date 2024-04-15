@@ -1,0 +1,958 @@
+[05-Feb-2024 23:16:22 UTC] PHP Warning:  Attempt to read property "title" on null in /home2/hercul27/public_html/wp-includes/class-wp-customize-widgets.php on line 905
+[05-Feb-2024 23:19:53 UTC] PHP Warning:  Undefined array key "HTTP_REFERER" in /home2/hercul27/public_html/wp-content/plugins/pagelayer/main/blocks.php on line 255
+[05-Feb-2024 23:25:04 UTC] PHP Warning:  Undefined array key 0 in /home2/hercul27/public_html/wp-content/plugins/popularfx-templates/freemium_functions.php on line 217
+[05-Feb-2024 23:25:04 UTC] PHP Warning:  Attempt to read property "term_id" on null in /home2/hercul27/public_html/wp-content/plugins/popularfx-templates/freemium_functions.php on line 217
+[05-Feb-2024 23:25:04 UTC] PHP Warning:  Undefined array key 0 in /home2/hercul27/public_html/wp-content/plugins/popularfx-templates/freemium_functions.php on line 217
+[05-Feb-2024 23:25:04 UTC] PHP Warning:  Attempt to read property "term_id" on null in /home2/hercul27/public_html/wp-content/plugins/popularfx-templates/freemium_functions.php on line 217
+[05-Feb-2024 23:25:04 UTC] PHP Warning:  Attempt to read property "title" on null in /home2/hercul27/public_html/wp-includes/class-wp-customize-widgets.php on line 905
+[05-Feb-2024 23:25:50 UTC] PHP Warning:  Undefined array key 0 in /home2/hercul27/public_html/wp-content/plugins/popularfx-templates/freemium_functions.php on line 217
+[05-Feb-2024 23:25:50 UTC] PHP Warning:  Attempt to read property "term_id" on null in /home2/hercul27/public_html/wp-content/plugins/popularfx-templates/freemium_functions.php on line 217
+[05-Feb-2024 23:25:50 UTC] PHP Warning:  Undefined array key 0 in /home2/hercul27/public_html/wp-content/plugins/popularfx-templates/freemium_functions.php on line 217
+[05-Feb-2024 23:25:50 UTC] PHP Warning:  Attempt to read property "term_id" on null in /home2/hercul27/public_html/wp-content/plugins/popularfx-templates/freemium_functions.php on line 217
+[05-Feb-2024 23:25:50 UTC] PHP Warning:  Attempt to read property "title" on null in /home2/hercul27/public_html/wp-includes/class-wp-customize-widgets.php on line 905
+[05-Feb-2024 23:26:28 UTC] PHP Warning:  Undefined array key 0 in /home2/hercul27/public_html/wp-content/plugins/popularfx-templates/freemium_functions.php on line 217
+[05-Feb-2024 23:26:28 UTC] PHP Warning:  Attempt to read property "term_id" on null in /home2/hercul27/public_html/wp-content/plugins/popularfx-templates/freemium_functions.php on line 217
+[05-Feb-2024 23:26:28 UTC] PHP Warning:  Undefined array key 0 in /home2/hercul27/public_html/wp-content/plugins/popularfx-templates/freemium_functions.php on line 217
+[05-Feb-2024 23:26:28 UTC] PHP Warning:  Attempt to read property "term_id" on null in /home2/hercul27/public_html/wp-content/plugins/popularfx-templates/freemium_functions.php on line 217
+[05-Feb-2024 23:26:28 UTC] PHP Warning:  Attempt to read property "title" on null in /home2/hercul27/public_html/wp-includes/class-wp-customize-widgets.php on line 905
+[05-Feb-2024 23:29:53 UTC] PHP Warning:  Undefined array key 0 in /home2/hercul27/public_html/wp-content/plugins/popularfx-templates/freemium_functions.php on line 217
+[05-Feb-2024 23:29:53 UTC] PHP Warning:  Attempt to read property "term_id" on null in /home2/hercul27/public_html/wp-content/plugins/popularfx-templates/freemium_functions.php on line 217
+[05-Feb-2024 23:29:53 UTC] PHP Warning:  Undefined array key 0 in /home2/hercul27/public_html/wp-content/plugins/popularfx-templates/freemium_functions.php on line 217
+[05-Feb-2024 23:29:53 UTC] PHP Warning:  Attempt to read property "term_id" on null in /home2/hercul27/public_html/wp-content/plugins/popularfx-templates/freemium_functions.php on line 217
+[05-Feb-2024 23:30:04 UTC] PHP Warning:  Undefined array key 0 in /home2/hercul27/public_html/wp-content/plugins/popularfx-templates/freemium_functions.php on line 217
+[05-Feb-2024 23:30:04 UTC] PHP Warning:  Attempt to read property "term_id" on null in /home2/hercul27/public_html/wp-content/plugins/popularfx-templates/freemium_functions.php on line 217
+[05-Feb-2024 23:30:04 UTC] PHP Warning:  Undefined array key 0 in /home2/hercul27/public_html/wp-content/plugins/popularfx-templates/freemium_functions.php on line 217
+[05-Feb-2024 23:30:04 UTC] PHP Warning:  Attempt to read property "term_id" on null in /home2/hercul27/public_html/wp-content/plugins/popularfx-templates/freemium_functions.php on line 217
+[05-Feb-2024 23:31:44 UTC] PHP Warning:  Attempt to read property "title" on null in /home2/hercul27/public_html/wp-includes/class-wp-customize-widgets.php on line 905
+[05-Feb-2024 23:33:10 UTC] PHP Warning:  Attempt to read property "title" on null in /home2/hercul27/public_html/wp-includes/class-wp-customize-widgets.php on line 905
+[05-Feb-2024 23:48:48 UTC] PHP Warning:  Attempt to read property "title" on null in /home2/hercul27/public_html/wp-includes/class-wp-customize-widgets.php on line 905
+[05-Feb-2024 23:51:18 UTC] PHP Warning:  Attempt to read property "title" on null in /home2/hercul27/public_html/wp-includes/class-wp-customize-widgets.php on line 905
+[05-Feb-2024 23:53:01 UTC] PHP Warning:  Undefined property: WP_Ajax_Upgrader_Skin::$api in /home2/hercul27/public_html/wp-admin/includes/class-theme-upgrader.php on line 160
+[11-Feb-2024 16:45:54 UTC] PHP Warning:  Attempt to read property "title" on null in /home2/hercul27/public_html/wp-includes/class-wp-customize-widgets.php on line 905
+[11-Feb-2024 16:53:16 UTC] PHP Warning:  Attempt to read property "title" on null in /home2/hercul27/public_html/wp-includes/class-wp-customize-widgets.php on line 905
+[11-Feb-2024 17:14:21 UTC] WordPress database error Table 'hercul27_wp851.wpku_woocommerce_sessions' doesn't exist for query SELECT session_value FROM wpku_woocommerce_sessions WHERE session_key = '2' made by require_once('wp-load.php'), require_once('wp-config.php'), require_once('wp-settings.php'), do_action('init'), WP_Hook->do_action, WP_Hook->apply_filters, WooCommerce->init, wc_load_cart, WooCommerce->initialize_session, WC_Session_Handler->init, WC_Session_Handler->init_session_cookie, WC_Session_Handler->get_session_data, WC_Session_Handler->get_session
+[11-Feb-2024 17:14:21 UTC] WordPress database error Table 'hercul27_wp851.wpku_woocommerce_sessions' doesn't exist for query SELECT session_value FROM wpku_woocommerce_sessions WHERE session_key = '2' made by require_once('wp-load.php'), require_once('wp-config.php'), require_once('wp-settings.php'), do_action('init'), WP_Hook->do_action, WP_Hook->apply_filters, WooCommerce->init, wc_load_cart, WooCommerce->initialize_session, WC_Session_Handler->init, WC_Session_Handler->init_session_cookie, WC_Session_Handler->get_session_data, WC_Session_Handler->get_session
+[11-Feb-2024 17:14:21 UTC] WordPress database error Table 'hercul27_wp851.wpku_wc_webhooks' doesn't exist for query SELECT webhook_id
+				FROM wpku_wc_webhooks
+				WHERE 1=1
+				AND `status` = 'active'
+				
+				
+				
+				
+				
+				
+				ORDER BY webhook_id DESC made by require_once('wp-load.php'), require_once('wp-config.php'), require_once('wp-settings.php'), do_action('init'), WP_Hook->do_action, WP_Hook->apply_filters, WooCommerce->init, WooCommerce->load_webhooks, wc_load_webhooks, WC_Data_Store->__call, WC_Webhook_Data_Store->get_webhooks_ids, WC_Webhook_Data_Store->search_webhooks
+[11-Feb-2024 17:14:21 UTC] WordPress database error Table 'hercul27_wp851.wpku_wc_webhooks' doesn't exist for query SELECT webhook_id
+				FROM wpku_wc_webhooks
+				WHERE 1=1
+				AND `status` = 'active'
+				
+				
+				
+				
+				
+				
+				ORDER BY webhook_id DESC made by require_once('wp-load.php'), require_once('wp-config.php'), require_once('wp-settings.php'), do_action('init'), WP_Hook->do_action, WP_Hook->apply_filters, WooCommerce->init, WooCommerce->load_webhooks, wc_load_webhooks, WC_Data_Store->__call, WC_Webhook_Data_Store->get_webhooks_ids, WC_Webhook_Data_Store->search_webhooks
+[11-Feb-2024 17:14:21 UTC] WordPress database error Duplicate column name 'priority' for query ALTER TABLE wpku_actionscheduler_actions ADD COLUMN priority tinyint unsigned NOT NULL default '10' made by require_once('wp-load.php'), require_once('wp-config.php'), require_once('wp-settings.php'), do_action('init'), WP_Hook->do_action, WP_Hook->apply_filters, ActionScheduler_HybridStore->init, ActionScheduler_DBStore->init, ActionScheduler_Abstract_Schema->register_tables, ActionScheduler_Abstract_Schema->update_table, dbDelta
+[11-Feb-2024 17:14:22 UTC] WordPress database error Duplicate key name 'hook_status_scheduled_date_gmt' for query ALTER TABLE wpku_actionscheduler_actions ADD KEY `hook_status_scheduled_date_gmt` (`hook`(163),`status`,`scheduled_date_gmt`) made by require_once('wp-load.php'), require_once('wp-config.php'), require_once('wp-settings.php'), do_action('init'), WP_Hook->do_action, WP_Hook->apply_filters, ActionScheduler_HybridStore->init, ActionScheduler_DBStore->init, ActionScheduler_Abstract_Schema->register_tables, ActionScheduler_Abstract_Schema->update_table, dbDelta
+[11-Feb-2024 17:14:22 UTC] WordPress database error Duplicate key name 'status_scheduled_date_gmt' for query ALTER TABLE wpku_actionscheduler_actions ADD KEY `status_scheduled_date_gmt` (`status`,`scheduled_date_gmt`) made by require_once('wp-load.php'), require_once('wp-config.php'), require_once('wp-settings.php'), do_action('init'), WP_Hook->do_action, WP_Hook->apply_filters, ActionScheduler_HybridStore->init, ActionScheduler_DBStore->init, ActionScheduler_Abstract_Schema->register_tables, ActionScheduler_Abstract_Schema->update_table, dbDelta
+[11-Feb-2024 17:14:22 UTC] WordPress database error Table 'hercul27_wp851.wpku_woocommerce_attribute_taxonomies' doesn't exist for query SELECT * FROM wpku_woocommerce_attribute_taxonomies WHERE attribute_name != '' ORDER BY attribute_name ASC; made by require_once('wp-load.php'), require_once('wp-config.php'), require_once('wp-settings.php'), do_action('init'), WP_Hook->do_action, WP_Hook->apply_filters, WC_Post_Types::register_taxonomies, wc_get_attribute_taxonomies
+[11-Feb-2024 17:14:22 UTC] WordPress database error Table 'wpku_woocommerce_sessions' already exists for query 
+CREATE TABLE wpku_woocommerce_sessions (
+  session_id bigint(20) unsigned NOT NULL AUTO_INCREMENT,
+  session_key char(32) NOT NULL,
+  session_value longtext NOT NULL,
+  session_expiry bigint(20) unsigned NOT NULL,
+  PRIMARY KEY  (session_id),
+  UNIQUE KEY session_key (session_key)
+) DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_520_ci made by require_once('wp-load.php'), require_once('wp-config.php'), require_once('wp-settings.php'), do_action('init'), WP_Hook->do_action, WP_Hook->apply_filters, WC_Install::check_version, WC_Install::install, WC_Install::create_tables, dbDelta
+[11-Feb-2024 17:14:22 UTC] WordPress database error Table 'wpku_woocommerce_api_keys' already exists for query 
+CREATE TABLE wpku_woocommerce_api_keys (
+  key_id bigint(20) unsigned NOT NULL auto_increment,
+  user_id bigint(20) unsigned NOT NULL,
+  description varchar(200) NULL,
+  permissions varchar(10) NOT NULL,
+  consumer_key char(64) NOT NULL,
+  consumer_secret char(43) NOT NULL,
+  nonces longtext NULL,
+  truncated_key char(7) NOT NULL,
+  last_access datetime NULL default null,
+  PRIMARY KEY  (key_id),
+  KEY consumer_key (consumer_key),
+  KEY consumer_secret (consumer_secret)
+) DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_520_ci made by require_once('wp-load.php'), require_once('wp-config.php'), require_once('wp-settings.php'), do_action('init'), WP_Hook->do_action, WP_Hook->apply_filters, WC_Install::check_version, WC_Install::install, WC_Install::create_tables, dbDelta
+[11-Feb-2024 17:14:22 UTC] WordPress database error Table 'wpku_woocommerce_attribute_taxonomies' already exists for query 
+CREATE TABLE wpku_woocommerce_attribute_taxonomies (
+  attribute_id bigint(20) unsigned NOT NULL auto_increment,
+  attribute_name varchar(200) NOT NULL,
+  attribute_label varchar(200) NULL,
+  attribute_type varchar(20) NOT NULL,
+  attribute_orderby varchar(20) NOT NULL,
+  attribute_public int(1) NOT NULL DEFAULT 1,
+  PRIMARY KEY  (attribute_id),
+  KEY attribute_name (attribute_name(20))
+) DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_520_ci made by require_once('wp-load.php'), require_once('wp-config.php'), require_once('wp-settings.php'), do_action('init'), WP_Hook->do_action, WP_Hook->apply_filters, WC_Install::check_version, WC_Install::install, WC_Install::create_tables, dbDelta
+[11-Feb-2024 17:14:22 UTC] WordPress database error Table 'wpku_woocommerce_downloadable_product_permissions' already exists for query 
+CREATE TABLE wpku_woocommerce_downloadable_product_permissions (
+  permission_id bigint(20) unsigned NOT NULL auto_increment,
+  download_id varchar(36) NOT NULL,
+  product_id bigint(20) unsigned NOT NULL,
+  order_id bigint(20) unsigned NOT NULL DEFAULT 0,
+  order_key varchar(200) NOT NULL,
+  user_email varchar(200) NOT NULL,
+  user_id bigint(20) unsigned NULL,
+  downloads_remaining varchar(9) NULL,
+  access_granted datetime NOT NULL default '0000-00-00 00:00:00',
+  access_expires datetime NULL default null,
+  download_count bigint(20) unsigned NOT NULL DEFAULT 0,
+  PRIMARY KEY  (permission_id),
+  KEY download_order_key_product (product_id,order_id,order_key(16),download_id),
+  KEY download_order_product (download_id,order_id,product_id),
+  KEY order_id (order_id),
+  KEY user_order_remaining_expires (user_id,order_id,downloads_remaining,access_expires)
+) DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_520_ci made by require_once('wp-load.php'), require_once('wp-config.php'), require_once('wp-settings.php'), do_action('init'), WP_Hook->do_action, WP_Hook->apply_filters, WC_Install::check_version, WC_Install::install, WC_Install::create_tables, dbDelta
+[11-Feb-2024 17:14:22 UTC] WordPress database error Table 'wpku_woocommerce_order_items' already exists for query 
+CREATE TABLE wpku_woocommerce_order_items (
+  order_item_id bigint(20) unsigned NOT NULL auto_increment,
+  order_item_name text NOT NULL,
+  order_item_type varchar(200) NOT NULL DEFAULT '',
+  order_id bigint(20) unsigned NOT NULL,
+  PRIMARY KEY  (order_item_id),
+  KEY order_id (order_id)
+) DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_520_ci made by require_once('wp-load.php'), require_once('wp-config.php'), require_once('wp-settings.php'), do_action('init'), WP_Hook->do_action, WP_Hook->apply_filters, WC_Install::check_version, WC_Install::install, WC_Install::create_tables, dbDelta
+[11-Feb-2024 17:14:22 UTC] WordPress database error Table 'wpku_woocommerce_order_itemmeta' already exists for query 
+CREATE TABLE wpku_woocommerce_order_itemmeta (
+  meta_id bigint(20) unsigned NOT NULL auto_increment,
+  order_item_id bigint(20) unsigned NOT NULL,
+  meta_key varchar(255) default NULL,
+  meta_value longtext NULL,
+  PRIMARY KEY  (meta_id),
+  KEY order_item_id (order_item_id),
+  KEY meta_key (meta_key(32))
+) DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_520_ci made by require_once('wp-load.php'), require_once('wp-config.php'), require_once('wp-settings.php'), do_action('init'), WP_Hook->do_action, WP_Hook->apply_filters, WC_Install::check_version, WC_Install::install, WC_Install::create_tables, dbDelta
+[11-Feb-2024 17:14:22 UTC] WordPress database error Table 'wpku_woocommerce_tax_rates' already exists for query 
+CREATE TABLE wpku_woocommerce_tax_rates (
+  tax_rate_id bigint(20) unsigned NOT NULL auto_increment,
+  tax_rate_country varchar(2) NOT NULL DEFAULT '',
+  tax_rate_state varchar(200) NOT NULL DEFAULT '',
+  tax_rate varchar(8) NOT NULL DEFAULT '',
+  tax_rate_name varchar(200) NOT NULL DEFAULT '',
+  tax_rate_priority bigint(20) unsigned NOT NULL,
+  tax_rate_compound int(1) NOT NULL DEFAULT 0,
+  tax_rate_shipping int(1) NOT NULL DEFAULT 1,
+  tax_rate_order bigint(20) unsigned NOT NULL,
+  tax_rate_class varchar(200) NOT NULL DEFAULT '',
+  PRIMARY KEY  (tax_rate_id),
+  KEY tax_rate_country (tax_rate_country),
+  KEY tax_rate_state (tax_rate_state(2)),
+  KEY tax_rate_class (tax_rate_class(10)),
+  KEY tax_rate_priority (tax_rate_priority)
+) DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_520_ci made by require_once('wp-load.php'), require_once('wp-config.php'), require_once('wp-settings.php'), do_action('init'), WP_Hook->do_action, WP_Hook->apply_filters, WC_Install::check_version, WC_Install::install, WC_Install::create_tables, dbDelta
+[11-Feb-2024 17:14:22 UTC] WordPress database error Table 'wpku_woocommerce_tax_rate_locations' already exists for query 
+CREATE TABLE wpku_woocommerce_tax_rate_locations (
+  location_id bigint(20) unsigned NOT NULL auto_increment,
+  location_code varchar(200) NOT NULL,
+  tax_rate_id bigint(20) unsigned NOT NULL,
+  location_type varchar(40) NOT NULL,
+  PRIMARY KEY  (location_id),
+  KEY tax_rate_id (tax_rate_id),
+  KEY location_type_code (location_type(10),location_code(20))
+) DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_520_ci made by require_once('wp-load.php'), require_once('wp-config.php'), require_once('wp-settings.php'), do_action('init'), WP_Hook->do_action, WP_Hook->apply_filters, WC_Install::check_version, WC_Install::install, WC_Install::create_tables, dbDelta
+[11-Feb-2024 17:14:22 UTC] WordPress database error Table 'wpku_woocommerce_shipping_zones' already exists for query 
+CREATE TABLE wpku_woocommerce_shipping_zones (
+  zone_id bigint(20) unsigned NOT NULL auto_increment,
+  zone_name varchar(200) NOT NULL,
+  zone_order bigint(20) unsigned NOT NULL,
+  PRIMARY KEY  (zone_id)
+) DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_520_ci made by require_once('wp-load.php'), require_once('wp-config.php'), require_once('wp-settings.php'), do_action('init'), WP_Hook->do_action, WP_Hook->apply_filters, WC_Install::check_version, WC_Install::install, WC_Install::create_tables, dbDelta
+[11-Feb-2024 17:14:22 UTC] WordPress database error Table 'wpku_woocommerce_shipping_zone_locations' already exists for query 
+CREATE TABLE wpku_woocommerce_shipping_zone_locations (
+  location_id bigint(20) unsigned NOT NULL auto_increment,
+  zone_id bigint(20) unsigned NOT NULL,
+  location_code varchar(200) NOT NULL,
+  location_type varchar(40) NOT NULL,
+  PRIMARY KEY  (location_id),
+  KEY location_id (location_id),
+  KEY location_type_code (location_type(10),location_code(20))
+) DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_520_ci made by require_once('wp-load.php'), require_once('wp-config.php'), require_once('wp-settings.php'), do_action('init'), WP_Hook->do_action, WP_Hook->apply_filters, WC_Install::check_version, WC_Install::install, WC_Install::create_tables, dbDelta
+[11-Feb-2024 17:14:22 UTC] WordPress database error Table 'wpku_woocommerce_shipping_zone_methods' already exists for query 
+CREATE TABLE wpku_woocommerce_shipping_zone_methods (
+  zone_id bigint(20) unsigned NOT NULL,
+  instance_id bigint(20) unsigned NOT NULL auto_increment,
+  method_id varchar(200) NOT NULL,
+  method_order bigint(20) unsigned NOT NULL,
+  is_enabled tinyint(1) NOT NULL DEFAULT '1',
+  PRIMARY KEY  (instance_id)
+) DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_520_ci made by require_once('wp-load.php'), require_once('wp-config.php'), require_once('wp-settings.php'), do_action('init'), WP_Hook->do_action, WP_Hook->apply_filters, WC_Install::check_version, WC_Install::install, WC_Install::create_tables, dbDelta
+[11-Feb-2024 17:14:22 UTC] WordPress database error Table 'wpku_woocommerce_payment_tokens' already exists for query 
+CREATE TABLE wpku_woocommerce_payment_tokens (
+  token_id bigint(20) unsigned NOT NULL auto_increment,
+  gateway_id varchar(200) NOT NULL,
+  token text NOT NULL,
+  user_id bigint(20) unsigned NOT NULL DEFAULT '0',
+  type varchar(200) NOT NULL,
+  is_default tinyint(1) NOT NULL DEFAULT '0',
+  PRIMARY KEY  (token_id),
+  KEY user_id (user_id)
+) DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_520_ci made by require_once('wp-load.php'), require_once('wp-config.php'), require_once('wp-settings.php'), do_action('init'), WP_Hook->do_action, WP_Hook->apply_filters, WC_Install::check_version, WC_Install::install, WC_Install::create_tables, dbDelta
+[11-Feb-2024 17:14:22 UTC] WordPress database error Table 'wpku_woocommerce_payment_tokenmeta' already exists for query 
+CREATE TABLE wpku_woocommerce_payment_tokenmeta (
+  meta_id bigint(20) unsigned NOT NULL auto_increment,
+  payment_token_id bigint(20) unsigned NOT NULL,
+  meta_key varchar(255) NULL,
+  meta_value longtext NULL,
+  PRIMARY KEY  (meta_id),
+  KEY payment_token_id (payment_token_id),
+  KEY meta_key (meta_key(32))
+) DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_520_ci made by require_once('wp-load.php'), require_once('wp-config.php'), require_once('wp-settings.php'), do_action('init'), WP_Hook->do_action, WP_Hook->apply_filters, WC_Install::check_version, WC_Install::install, WC_Install::create_tables, dbDelta
+[11-Feb-2024 17:14:22 UTC] WordPress database error Table 'wpku_woocommerce_log' already exists for query 
+CREATE TABLE wpku_woocommerce_log (
+  log_id bigint(20) unsigned NOT NULL AUTO_INCREMENT,
+  timestamp datetime NOT NULL,
+  level smallint(4) NOT NULL,
+  source varchar(200) NOT NULL,
+  message longtext NOT NULL,
+  context longtext NULL,
+  PRIMARY KEY (log_id),
+  KEY level (level)
+) DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_520_ci made by require_once('wp-load.php'), require_once('wp-config.php'), require_once('wp-settings.php'), do_action('init'), WP_Hook->do_action, WP_Hook->apply_filters, WC_Install::check_version, WC_Install::install, WC_Install::create_tables, dbDelta
+[11-Feb-2024 17:14:22 UTC] WordPress database error Table 'wpku_wc_webhooks' already exists for query 
+CREATE TABLE wpku_wc_webhooks (
+  webhook_id bigint(20) unsigned NOT NULL AUTO_INCREMENT,
+  status varchar(200) NOT NULL,
+  name text NOT NULL,
+  user_id bigint(20) unsigned NOT NULL,
+  delivery_url text NOT NULL,
+  secret text NOT NULL,
+  topic varchar(200) NOT NULL,
+  date_created datetime NOT NULL DEFAULT '0000-00-00 00:00:00',
+  date_created_gmt datetime NOT NULL DEFAULT '0000-00-00 00:00:00',
+  date_modified datetime NOT NULL DEFAULT '0000-00-00 00:00:00',
+  date_modified_gmt datetime NOT NULL DEFAULT '0000-00-00 00:00:00',
+  api_version smallint(4) NOT NULL,
+  failure_count smallint(10) NOT NULL DEFAULT '0',
+  pending_delivery tinyint(1) NOT NULL DEFAULT '0',
+  PRIMARY KEY  (webhook_id),
+  KEY user_id (user_id)
+) DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_520_ci made by require_once('wp-load.php'), require_once('wp-config.php'), require_once('wp-settings.php'), do_action('init'), WP_Hook->do_action, WP_Hook->apply_filters, WC_Install::check_version, WC_Install::install, WC_Install::create_tables, dbDelta
+[11-Feb-2024 17:14:22 UTC] WordPress database error Table 'wpku_wc_download_log' already exists for query 
+CREATE TABLE wpku_wc_download_log (
+  download_log_id bigint(20) unsigned NOT NULL AUTO_INCREMENT,
+  timestamp datetime NOT NULL,
+  permission_id bigint(20) unsigned NOT NULL,
+  user_id bigint(20) unsigned NULL,
+  user_ip_address varchar(100) NULL DEFAULT '',
+  PRIMARY KEY  (download_log_id),
+  KEY permission_id (permission_id),
+  KEY timestamp (timestamp)
+) DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_520_ci made by require_once('wp-load.php'), require_once('wp-config.php'), require_once('wp-settings.php'), do_action('init'), WP_Hook->do_action, WP_Hook->apply_filters, WC_Install::check_version, WC_Install::install, WC_Install::create_tables, dbDelta
+[11-Feb-2024 17:14:22 UTC] WordPress database error Table 'wpku_wc_product_meta_lookup' already exists for query 
+CREATE TABLE wpku_wc_product_meta_lookup (
+  `product_id` bigint(20) NOT NULL,
+  `sku` varchar(100) NULL default '',
+  `virtual` tinyint(1) NULL default 0,
+  `downloadable` tinyint(1) NULL default 0,
+  `min_price` decimal(19,4) NULL default NULL,
+  `max_price` decimal(19,4) NULL default NULL,
+  `onsale` tinyint(1) NULL default 0,
+  `stock_quantity` double NULL default NULL,
+  `stock_status` varchar(100) NULL default 'instock',
+  `rating_count` bigint(20) NULL default 0,
+  `average_rating` decimal(3,2) NULL default 0.00,
+  `total_sales` bigint(20) NULL default 0,
+  `tax_status` varchar(100) NULL default 'taxable',
+  `tax_class` varchar(100) NULL default '',
+  PRIMARY KEY  (`product_id`),
+  KEY `virtual` (`virtual`),
+  KEY `downloadable` (`downloadable`),
+  KEY `stock_status` (`stock_status`),
+  KEY `stock_quantity` (`stock_quantity`),
+  KEY `onsale` (`onsale`),
+  KEY min_max_price (`min_price`, `max_price`)
+) DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_520_ci made by require_once('wp-load.php'), require_once('wp-config.php'), require_once('wp-settings.php'), do_action('init'), WP_Hook->do_action, WP_Hook->apply_filters, WC_Install::check_version, WC_Install::install, WC_Install::create_tables, dbDelta
+[11-Feb-2024 17:14:22 UTC] WordPress database error Table 'wpku_wc_tax_rate_classes' already exists for query 
+CREATE TABLE wpku_wc_tax_rate_classes (
+  tax_rate_class_id bigint(20) unsigned NOT NULL auto_increment,
+  name varchar(200) NOT NULL DEFAULT '',
+  slug varchar(200) NOT NULL DEFAULT '',
+  PRIMARY KEY  (tax_rate_class_id),
+  UNIQUE KEY slug (slug(191))
+) DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_520_ci made by require_once('wp-load.php'), require_once('wp-config.php'), require_once('wp-settings.php'), do_action('init'), WP_Hook->do_action, WP_Hook->apply_filters, WC_Install::check_version, WC_Install::install, WC_Install::create_tables, dbDelta
+[11-Feb-2024 17:14:22 UTC] WordPress database error Table 'wpku_wc_reserved_stock' already exists for query 
+CREATE TABLE wpku_wc_reserved_stock (
+	`order_id` bigint(20) NOT NULL,
+	`product_id` bigint(20) NOT NULL,
+	`stock_quantity` double NOT NULL DEFAULT 0,
+	`timestamp` datetime NOT NULL DEFAULT '0000-00-00 00:00:00',
+	`expires` datetime NOT NULL DEFAULT '0000-00-00 00:00:00',
+	PRIMARY KEY  (`order_id`, `product_id`)
+) DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_520_ci made by require_once('wp-load.php'), require_once('wp-config.php'), require_once('wp-settings.php'), do_action('init'), WP_Hook->do_action, WP_Hook->apply_filters, WC_Install::check_version, WC_Install::install, WC_Install::create_tables, dbDelta
+[11-Feb-2024 17:14:22 UTC] WordPress database error Table 'wpku_wc_rate_limits' already exists for query 
+CREATE TABLE wpku_wc_rate_limits (
+  rate_limit_id bigint(20) unsigned NOT NULL AUTO_INCREMENT,
+  rate_limit_key varchar(200) NOT NULL,
+  rate_limit_expiry bigint(20) unsigned NOT NULL,
+  rate_limit_remaining smallint(10) NOT NULL DEFAULT '0',
+  PRIMARY KEY  (rate_limit_id),
+  UNIQUE KEY rate_limit_key (rate_limit_key(191))
+) DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_520_ci made by require_once('wp-load.php'), require_once('wp-config.php'), require_once('wp-settings.php'), do_action('init'), WP_Hook->do_action, WP_Hook->apply_filters, WC_Install::check_version, WC_Install::install, WC_Install::create_tables, dbDelta
+[11-Feb-2024 17:14:22 UTC] WordPress database error Table 'wpku_wc_product_attributes_lookup' already exists for query 
+CREATE TABLE wpku_wc_product_attributes_lookup (
+ product_id bigint(20) NOT NULL,
+ product_or_parent_id bigint(20) NOT NULL,
+ taxonomy varchar(32) NOT NULL,
+ term_id bigint(20) NOT NULL,
+ is_variation_attribute tinyint(1) NOT NULL,
+ in_stock tinyint(1) NOT NULL,
+ INDEX is_variation_attribute_term_id (is_variation_attribute, term_id),
+ PRIMARY KEY  ( `product_or_parent_id`, `term_id`, `product_id`, `taxonomy` )
+) DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_520_ci made by require_once('wp-load.php'), require_once('wp-config.php'), require_once('wp-settings.php'), do_action('init'), WP_Hook->do_action, WP_Hook->apply_filters, WC_Install::check_version, WC_Install::install, WC_Install::create_tables, dbDelta
+[11-Feb-2024 17:14:22 UTC] WordPress database error Table 'wpku_wc_product_download_directories' already exists for query 
+CREATE TABLE wpku_wc_product_download_directories (
+	url_id bigint(20) unsigned NOT NULL auto_increment,
+	url varchar(256) NOT NULL,
+	enabled tinyint(1) NOT NULL DEFAULT 0,
+	PRIMARY KEY (url_id),
+	KEY url (url(191))
+) DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_520_ci made by require_once('wp-load.php'), require_once('wp-config.php'), require_once('wp-settings.php'), do_action('init'), WP_Hook->do_action, WP_Hook->apply_filters, WC_Install::check_version, WC_Install::install, WC_Install::create_tables, dbDelta
+[11-Feb-2024 17:14:22 UTC] WordPress database error Table 'wpku_wc_order_stats' already exists for query 
+CREATE TABLE wpku_wc_order_stats (
+	order_id bigint(20) unsigned NOT NULL,
+	parent_id bigint(20) unsigned DEFAULT 0 NOT NULL,
+	date_created datetime DEFAULT '0000-00-00 00:00:00' NOT NULL,
+	date_created_gmt datetime DEFAULT '0000-00-00 00:00:00' NOT NULL,
+	date_paid datetime DEFAULT '0000-00-00 00:00:00',
+	date_completed datetime DEFAULT '0000-00-00 00:00:00',
+	num_items_sold int(11) DEFAULT 0 NOT NULL,
+	total_sales double DEFAULT 0 NOT NULL,
+	tax_total double DEFAULT 0 NOT NULL,
+	shipping_total double DEFAULT 0 NOT NULL,
+	net_total double DEFAULT 0 NOT NULL,
+	returning_customer tinyint(1) DEFAULT NULL,
+	status varchar(200) NOT NULL,
+	customer_id bigint(20) unsigned NOT NULL,
+	PRIMARY KEY (order_id),
+	KEY date_created (date_created),
+	KEY customer_id (customer_id),
+	KEY status (status(191))
+) DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_520_ci made by require_once('wp-load.php'), require_once('wp-config.php'), require_once('wp-settings.php'), do_action('init'), WP_Hook->do_action, WP_Hook->apply_filters, WC_Install::check_version, WC_Install::install, WC_Install::create_tables, dbDelta
+[11-Feb-2024 17:14:22 UTC] WordPress database error Table 'wpku_wc_order_product_lookup' already exists for query 
+CREATE TABLE wpku_wc_order_product_lookup (
+	order_item_id bigint(20) unsigned NOT NULL,
+	order_id bigint(20) unsigned NOT NULL,
+	product_id bigint(20) unsigned NOT NULL,
+	variation_id bigint(20) unsigned NOT NULL,
+	customer_id bigint(20) unsigned NULL,
+	date_created datetime DEFAULT '0000-00-00 00:00:00' NOT NULL,
+	product_qty int(11) NOT NULL,
+	product_net_revenue double DEFAULT 0 NOT NULL,
+	product_gross_revenue double DEFAULT 0 NOT NULL,
+	coupon_amount double DEFAULT 0 NOT NULL,
+	tax_amount double DEFAULT 0 NOT NULL,
+	shipping_amount double DEFAULT 0 NOT NULL,
+	shipping_tax_amount double DEFAULT 0 NOT NULL,
+	PRIMARY KEY  (order_item_id),
+	KEY order_id (order_id),
+	KEY product_id (product_id),
+	KEY customer_id (customer_id),
+	KEY date_created (date_created)
+) DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_520_ci made by require_once('wp-load.php'), require_once('wp-config.php'), require_once('wp-settings.php'), do_action('init'), WP_Hook->do_action, WP_Hook->apply_filters, WC_Install::check_version, WC_Install::install, WC_Install::create_tables, dbDelta
+[11-Feb-2024 17:14:22 UTC] WordPress database error Table 'wpku_wc_order_tax_lookup' already exists for query 
+CREATE TABLE wpku_wc_order_tax_lookup (
+	order_id bigint(20) unsigned NOT NULL,
+	tax_rate_id bigint(20) unsigned NOT NULL,
+	date_created datetime DEFAULT '0000-00-00 00:00:00' NOT NULL,
+	shipping_tax double DEFAULT 0 NOT NULL,
+	order_tax double DEFAULT 0 NOT NULL,
+	total_tax double DEFAULT 0 NOT NULL,
+	PRIMARY KEY (order_id, tax_rate_id),
+	KEY tax_rate_id (tax_rate_id),
+	KEY date_created (date_created)
+) DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_520_ci made by require_once('wp-load.php'), require_once('wp-config.php'), require_once('wp-settings.php'), do_action('init'), WP_Hook->do_action, WP_Hook->apply_filters, WC_Install::check_version, WC_Install::install, WC_Install::create_tables, dbDelta
+[11-Feb-2024 17:14:22 UTC] WordPress database error Table 'wpku_wc_order_coupon_lookup' already exists for query 
+CREATE TABLE wpku_wc_order_coupon_lookup (
+	order_id bigint(20) unsigned NOT NULL,
+	coupon_id bigint(20) NOT NULL,
+	date_created datetime DEFAULT '0000-00-00 00:00:00' NOT NULL,
+	discount_amount double DEFAULT 0 NOT NULL,
+	PRIMARY KEY (order_id, coupon_id),
+	KEY coupon_id (coupon_id),
+	KEY date_created (date_created)
+) DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_520_ci made by require_once('wp-load.php'), require_once('wp-config.php'), require_once('wp-settings.php'), do_action('init'), WP_Hook->do_action, WP_Hook->apply_filters, WC_Install::check_version, WC_Install::install, WC_Install::create_tables, dbDelta
+[11-Feb-2024 17:14:22 UTC] WordPress database error Table 'wpku_wc_admin_notes' already exists for query 
+CREATE TABLE wpku_wc_admin_notes (
+	note_id bigint(20) unsigned NOT NULL AUTO_INCREMENT,
+	name varchar(255) NOT NULL,
+	type varchar(20) NOT NULL,
+	locale varchar(20) NOT NULL,
+	title longtext NOT NULL,
+	content longtext NOT NULL,
+	content_data longtext NULL default null,
+	status varchar(200) NOT NULL,
+	source varchar(200) NOT NULL,
+	date_created datetime NOT NULL default '0000-00-00 00:00:00',
+	date_reminder datetime NULL default null,
+	is_snoozable tinyint(1) DEFAULT 0 NOT NULL,
+	layout varchar(20) DEFAULT '' NOT NULL,
+	image varchar(200) NULL DEFAULT NULL,
+	is_deleted tinyint(1) DEFAULT 0 NOT NULL,
+	is_read tinyint(1) DEFAULT 0 NOT NULL,
+	icon varchar(200) NOT NULL default 'info',
+	PRIMARY KEY (note_id)
+) DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_520_ci made by require_once('wp-load.php'), require_once('wp-config.php'), require_once('wp-settings.php'), do_action('init'), WP_Hook->do_action, WP_Hook->apply_filters, WC_Install::check_version, WC_Install::install, WC_Install::create_tables, dbDelta
+[11-Feb-2024 17:14:22 UTC] WordPress database error Table 'wpku_wc_admin_note_actions' already exists for query 
+CREATE TABLE wpku_wc_admin_note_actions (
+	action_id bigint(20) unsigned NOT NULL AUTO_INCREMENT,
+	note_id bigint(20) unsigned NOT NULL,
+	name varchar(255) NOT NULL,
+	label varchar(255) NOT NULL,
+	query longtext NOT NULL,
+	status varchar(255) NOT NULL,
+	actioned_text varchar(255) NOT NULL,
+	nonce_action varchar(255) NULL DEFAULT NULL,
+	nonce_name varchar(255) NULL DEFAULT NULL,
+	PRIMARY KEY (action_id),
+	KEY note_id (note_id)
+) DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_520_ci made by require_once('wp-load.php'), require_once('wp-config.php'), require_once('wp-settings.php'), do_action('init'), WP_Hook->do_action, WP_Hook->apply_filters, WC_Install::check_version, WC_Install::install, WC_Install::create_tables, dbDelta
+[11-Feb-2024 17:14:22 UTC] WordPress database error Table 'wpku_wc_customer_lookup' already exists for query 
+CREATE TABLE wpku_wc_customer_lookup (
+	customer_id bigint(20) unsigned NOT NULL AUTO_INCREMENT,
+	user_id bigint(20) unsigned DEFAULT NULL,
+	username varchar(60) DEFAULT '' NOT NULL,
+	first_name varchar(255) NOT NULL,
+	last_name varchar(255) NOT NULL,
+	email varchar(100) NULL default NULL,
+	date_last_active timestamp NULL default null,
+	date_registered timestamp NULL default null,
+	country char(2) DEFAULT '' NOT NULL,
+	postcode varchar(20) DEFAULT '' NOT NULL,
+	city varchar(100) DEFAULT '' NOT NULL,
+	state varchar(100) DEFAULT '' NOT NULL,
+	PRIMARY KEY (customer_id),
+	UNIQUE KEY user_id (user_id),
+	KEY email (email)
+) DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_520_ci made by require_once('wp-load.php'), require_once('wp-config.php'), require_once('wp-settings.php'), do_action('init'), WP_Hook->do_action, WP_Hook->apply_filters, WC_Install::check_version, WC_Install::install, WC_Install::create_tables, dbDelta
+[11-Feb-2024 17:14:22 UTC] WordPress database error Table 'wpku_wc_category_lookup' already exists for query 
+CREATE TABLE wpku_wc_category_lookup (
+	category_tree_id bigint(20) unsigned NOT NULL,
+	category_id bigint(20) unsigned NOT NULL,
+	PRIMARY KEY (category_tree_id,category_id)
+) DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_520_ci made by require_once('wp-load.php'), require_once('wp-config.php'), require_once('wp-settings.php'), do_action('init'), WP_Hook->do_action, WP_Hook->apply_filters, WC_Install::check_version, WC_Install::install, WC_Install::create_tables, dbDelta
+[11-Feb-2024 17:14:22 UTC] WordPress database error Table 'wpku_wc_orders' already exists for query 
+
+CREATE TABLE wpku_wc_orders (
+	id bigint(20) unsigned,
+	status varchar(20) null,
+	currency varchar(10) null,
+	type varchar(20) null,
+	tax_amount decimal(26,8) null,
+	total_amount decimal(26,8) null,
+	customer_id bigint(20) unsigned null,
+	billing_email varchar(320) null,
+	date_created_gmt datetime null,
+	date_updated_gmt datetime null,
+	parent_order_id bigint(20) unsigned null,
+	payment_method varchar(100) null,
+	payment_method_title text null,
+	transaction_id varchar(100) null,
+	ip_address varchar(100) null,
+	user_agent text null,
+	customer_note text null,
+	PRIMARY KEY (id),
+	KEY status (status),
+	KEY date_created (date_created_gmt),
+	KEY customer_id_billing_email (customer_id, billing_email(171)),
+	KEY billing_email (billing_email(191)),
+	KEY type_status_date (type, status, date_created_gmt),
+	KEY parent_order_id (parent_order_id),
+	KEY date_updated (date_updated_gmt)
+) DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_520_ci made by require_once('wp-load.php'), require_once('wp-config.php'), require_once('wp-settings.php'), do_action('init'), WP_Hook->do_action, WP_Hook->apply_filters, WC_Install::check_version, WC_Install::install, WC_Install::create_tables, dbDelta
+[11-Feb-2024 17:14:22 UTC] WordPress database error Table 'wpku_wc_order_addresses' already exists for query 
+CREATE TABLE wpku_wc_order_addresses (
+	id bigint(20) unsigned auto_increment primary key,
+	order_id bigint(20) unsigned NOT NULL,
+	address_type varchar(20) null,
+	first_name text null,
+	last_name text null,
+	company text null,
+	address_1 text null,
+	address_2 text null,
+	city text null,
+	state text null,
+	postcode text null,
+	country text null,
+	email varchar(320) null,
+	phone varchar(100) null,
+	KEY order_id (order_id),
+	UNIQUE KEY address_type_order_id (address_type, order_id),
+	KEY email (email(191)),
+	KEY phone (phone)
+) DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_520_ci made by require_once('wp-load.php'), require_once('wp-config.php'), require_once('wp-settings.php'), do_action('init'), WP_Hook->do_action, WP_Hook->apply_filters, WC_Install::check_version, WC_Install::install, WC_Install::create_tables, dbDelta
+[11-Feb-2024 17:14:23 UTC] WordPress database error Table 'wpku_wc_order_operational_data' already exists for query 
+CREATE TABLE wpku_wc_order_operational_data (
+	id bigint(20) unsigned auto_increment primary key,
+	order_id bigint(20) unsigned NULL,
+	created_via varchar(100) NULL,
+	woocommerce_version varchar(20) NULL,
+	prices_include_tax tinyint(1) NULL,
+	coupon_usages_are_counted tinyint(1) NULL,
+	download_permission_granted tinyint(1) NULL,
+	cart_hash varchar(100) NULL,
+	new_order_email_sent tinyint(1) NULL,
+	order_key varchar(100) NULL,
+	order_stock_reduced tinyint(1) NULL,
+	date_paid_gmt datetime NULL,
+	date_completed_gmt datetime NULL,
+	shipping_tax_amount decimal(26,8) NULL,
+	shipping_total_amount decimal(26,8) NULL,
+	discount_tax_amount decimal(26,8) NULL,
+	discount_total_amount decimal(26,8) NULL,
+	recorded_sales tinyint(1) NULL,
+	UNIQUE KEY order_id (order_id),
+	KEY order_key (order_key)
+) DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_520_ci made by require_once('wp-load.php'), require_once('wp-config.php'), require_once('wp-settings.php'), do_action('init'), WP_Hook->do_action, WP_Hook->apply_filters, WC_Install::check_version, WC_Install::install, WC_Install::create_tables, dbDelta
+[11-Feb-2024 17:14:23 UTC] WordPress database error Table 'wpku_wc_orders_meta' already exists for query 
+CREATE TABLE wpku_wc_orders_meta (
+	id bigint(20) unsigned auto_increment primary key,
+	order_id bigint(20) unsigned null,
+	meta_key varchar(255),
+	meta_value text null,
+	KEY meta_key_value (meta_key(100), meta_value(82)),
+	KEY order_id_meta_key_meta_value (order_id, meta_key(100), meta_value(82))
+) DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_520_ci made by require_once('wp-load.php'), require_once('wp-config.php'), require_once('wp-settings.php'), do_action('init'), WP_Hook->do_action, WP_Hook->apply_filters, WC_Install::check_version, WC_Install::install, WC_Install::create_tables, dbDelta
+[11-Feb-2024 17:14:23 UTC] WordPress database error Duplicate key name 'woo_idx_comment_type' for query ALTER TABLE wpku_comments ADD INDEX woo_idx_comment_type (comment_type) made by require_once('wp-load.php'), require_once('wp-config.php'), require_once('wp-settings.php'), do_action('init'), WP_Hook->do_action, WP_Hook->apply_filters, WC_Install::check_version, WC_Install::install, WC_Install::create_tables
+[11-Feb-2024 17:14:23 UTC] WordPress database error Duplicate entry 'taxa-reduzida' for key 'slug' for query INSERT INTO `wpku_wc_tax_rate_classes` (`name`, `slug`) VALUES ('Taxa reduzida', 'taxa-reduzida') made by require_once('wp-load.php'), require_once('wp-config.php'), require_once('wp-settings.php'), do_action('init'), WP_Hook->do_action, WP_Hook->apply_filters, WC_Install::check_version, WC_Install::install, WC_Install::create_options, WC_Tax::create_tax_class
+[11-Feb-2024 17:14:23 UTC] PHP Warning:  Undefined property: wpdb::$wc_category_lookup in /home2/hercul27/public_html/wp-includes/class-wpdb.php on line 783
+[11-Feb-2024 17:14:23 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '(category_id, category_tree_id) VALUES (21,21)' at line 1 for query INSERT IGNORE INTO  (category_id, category_tree_id) VALUES (21,21) made by require_once('wp-load.php'), require_once('wp-config.php'), require_once('wp-settings.php'), do_action('init'), WP_Hook->do_action, WP_Hook->apply_filters, WC_Install::check_version, WC_Install::install, WC_Install::create_terms, wp_insert_term, do_action('created_product_cat'), WP_Hook->do_action, WP_Hook->apply_filters, Automattic\WooCommerce\Internal\Admin\CategoryLookup->on_create, Automattic\WooCommerce\Internal\Admin\CategoryLookup->update
+[11-Feb-2024 17:31:04 UTC] PHP Warning:  Attempt to read property "ID" on null in /home2/hercul27/public_html/wp-content/plugins/pagelayer/main/blocks.php on line 247
+[11-Feb-2024 17:31:04 UTC] PHP Warning:  Attempt to read property "ID" on null in /home2/hercul27/public_html/wp-content/plugins/pagelayer/main/blocks.php on line 248
+[11-Feb-2024 17:31:04 UTC] PHP Warning:  Attempt to read property "ID" on null in /home2/hercul27/public_html/wp-content/plugins/pagelayer/main/blocks.php on line 249
+[11-Feb-2024 17:34:10 UTC] PHP Warning:  Attempt to read property "ID" on null in /home2/hercul27/public_html/wp-content/plugins/pagelayer/main/blocks.php on line 247
+[11-Feb-2024 17:34:10 UTC] PHP Warning:  Attempt to read property "ID" on null in /home2/hercul27/public_html/wp-content/plugins/pagelayer/main/blocks.php on line 248
+[11-Feb-2024 17:34:10 UTC] PHP Warning:  Attempt to read property "ID" on null in /home2/hercul27/public_html/wp-content/plugins/pagelayer/main/blocks.php on line 249
+[11-Feb-2024 17:45:25 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home2/hercul27/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[11-Feb-2024 17:45:25 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home2/hercul27/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[11-Feb-2024 17:45:25 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home2/hercul27/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[11-Feb-2024 17:45:25 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home2/hercul27/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[11-Feb-2024 17:45:25 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home2/hercul27/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[11-Feb-2024 17:45:25 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home2/hercul27/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[11-Feb-2024 17:45:25 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home2/hercul27/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[11-Feb-2024 17:45:25 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home2/hercul27/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[11-Feb-2024 17:45:25 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home2/hercul27/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[11-Feb-2024 17:45:25 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home2/hercul27/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[11-Feb-2024 17:45:25 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home2/hercul27/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[11-Feb-2024 17:45:25 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home2/hercul27/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[11-Feb-2024 17:45:25 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home2/hercul27/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[11-Feb-2024 17:45:25 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home2/hercul27/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[11-Feb-2024 17:45:25 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home2/hercul27/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[11-Feb-2024 17:45:25 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home2/hercul27/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[11-Feb-2024 17:45:25 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home2/hercul27/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[11-Feb-2024 17:45:25 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home2/hercul27/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[11-Feb-2024 17:45:25 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home2/hercul27/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[11-Feb-2024 17:45:25 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home2/hercul27/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[11-Feb-2024 17:45:25 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home2/hercul27/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[11-Feb-2024 17:45:25 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home2/hercul27/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[11-Feb-2024 17:45:25 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home2/hercul27/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[11-Feb-2024 17:45:25 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home2/hercul27/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[11-Feb-2024 17:45:25 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home2/hercul27/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[11-Feb-2024 17:45:25 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home2/hercul27/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[11-Feb-2024 17:45:25 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home2/hercul27/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[11-Feb-2024 17:45:25 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home2/hercul27/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[11-Feb-2024 17:45:25 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home2/hercul27/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[11-Feb-2024 17:45:25 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home2/hercul27/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[11-Feb-2024 17:45:25 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home2/hercul27/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[11-Feb-2024 17:45:25 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home2/hercul27/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[11-Feb-2024 17:45:25 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home2/hercul27/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[11-Feb-2024 17:45:25 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home2/hercul27/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[11-Feb-2024 17:45:25 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home2/hercul27/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[11-Feb-2024 17:45:25 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home2/hercul27/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[11-Feb-2024 17:45:25 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home2/hercul27/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[11-Feb-2024 17:45:25 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home2/hercul27/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[11-Feb-2024 17:45:25 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home2/hercul27/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[11-Feb-2024 17:45:25 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home2/hercul27/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[11-Feb-2024 17:45:25 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home2/hercul27/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[11-Feb-2024 17:45:25 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home2/hercul27/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[11-Feb-2024 17:45:25 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home2/hercul27/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[11-Feb-2024 17:45:25 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home2/hercul27/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[11-Feb-2024 17:45:25 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home2/hercul27/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[11-Feb-2024 17:45:25 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home2/hercul27/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[11-Feb-2024 17:45:25 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home2/hercul27/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[11-Feb-2024 17:45:25 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home2/hercul27/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[11-Feb-2024 17:45:25 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home2/hercul27/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[11-Feb-2024 17:45:25 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home2/hercul27/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[11-Feb-2024 17:45:25 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home2/hercul27/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[11-Feb-2024 17:45:25 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home2/hercul27/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[11-Feb-2024 17:45:25 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home2/hercul27/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[11-Feb-2024 17:45:25 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home2/hercul27/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[11-Feb-2024 17:45:25 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home2/hercul27/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[11-Feb-2024 17:45:25 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home2/hercul27/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[11-Feb-2024 17:45:25 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home2/hercul27/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[11-Feb-2024 17:45:25 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home2/hercul27/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[11-Feb-2024 17:45:25 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home2/hercul27/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[11-Feb-2024 17:45:25 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home2/hercul27/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[11-Feb-2024 17:45:25 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home2/hercul27/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[11-Feb-2024 17:45:25 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home2/hercul27/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[11-Feb-2024 17:45:25 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home2/hercul27/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[11-Feb-2024 17:45:25 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home2/hercul27/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[11-Feb-2024 17:45:25 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home2/hercul27/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[11-Feb-2024 17:45:25 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home2/hercul27/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[11-Feb-2024 17:45:25 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home2/hercul27/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[11-Feb-2024 17:45:25 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home2/hercul27/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[11-Feb-2024 17:45:25 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home2/hercul27/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[11-Feb-2024 17:45:25 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home2/hercul27/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[11-Feb-2024 17:45:25 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home2/hercul27/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[11-Feb-2024 17:45:25 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home2/hercul27/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[11-Feb-2024 17:45:25 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home2/hercul27/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[11-Feb-2024 17:45:25 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home2/hercul27/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[11-Feb-2024 17:45:25 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home2/hercul27/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[11-Feb-2024 17:45:25 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home2/hercul27/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[11-Feb-2024 17:45:25 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home2/hercul27/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[11-Feb-2024 17:45:25 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home2/hercul27/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[11-Feb-2024 17:45:25 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home2/hercul27/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[11-Feb-2024 17:45:25 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home2/hercul27/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[11-Feb-2024 17:45:25 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home2/hercul27/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[11-Feb-2024 17:45:25 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home2/hercul27/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[11-Feb-2024 17:45:25 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home2/hercul27/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[11-Feb-2024 17:45:25 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home2/hercul27/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[11-Feb-2024 17:45:25 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home2/hercul27/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[11-Feb-2024 17:45:25 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home2/hercul27/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[11-Feb-2024 17:45:25 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home2/hercul27/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[11-Feb-2024 17:45:25 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home2/hercul27/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[11-Feb-2024 17:45:25 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home2/hercul27/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[11-Feb-2024 17:45:25 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home2/hercul27/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[11-Feb-2024 17:45:25 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home2/hercul27/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[11-Feb-2024 17:45:25 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home2/hercul27/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[11-Feb-2024 17:45:25 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home2/hercul27/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[11-Feb-2024 17:45:25 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home2/hercul27/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[11-Feb-2024 17:45:25 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home2/hercul27/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[11-Feb-2024 17:45:25 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home2/hercul27/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[11-Feb-2024 17:59:38 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home2/hercul27/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[11-Feb-2024 17:59:38 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home2/hercul27/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[11-Feb-2024 17:59:38 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home2/hercul27/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[11-Feb-2024 17:59:38 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home2/hercul27/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[11-Feb-2024 17:59:38 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home2/hercul27/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[11-Feb-2024 17:59:38 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home2/hercul27/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[11-Feb-2024 17:59:38 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home2/hercul27/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[11-Feb-2024 17:59:38 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home2/hercul27/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[11-Feb-2024 17:59:38 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home2/hercul27/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[11-Feb-2024 17:59:38 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home2/hercul27/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[11-Feb-2024 17:59:38 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home2/hercul27/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[11-Feb-2024 17:59:38 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home2/hercul27/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[11-Feb-2024 17:59:38 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home2/hercul27/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[11-Feb-2024 17:59:38 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home2/hercul27/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[11-Feb-2024 17:59:38 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home2/hercul27/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[11-Feb-2024 17:59:38 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home2/hercul27/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[11-Feb-2024 17:59:38 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home2/hercul27/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[11-Feb-2024 17:59:38 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home2/hercul27/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[11-Feb-2024 17:59:38 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home2/hercul27/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[11-Feb-2024 17:59:38 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home2/hercul27/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[11-Feb-2024 17:59:38 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home2/hercul27/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[11-Feb-2024 17:59:38 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home2/hercul27/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[11-Feb-2024 17:59:38 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home2/hercul27/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[11-Feb-2024 17:59:38 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home2/hercul27/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[11-Feb-2024 17:59:38 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home2/hercul27/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[11-Feb-2024 17:59:38 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home2/hercul27/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[11-Feb-2024 17:59:38 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home2/hercul27/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[11-Feb-2024 17:59:38 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home2/hercul27/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[11-Feb-2024 17:59:38 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home2/hercul27/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[11-Feb-2024 17:59:38 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home2/hercul27/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[11-Feb-2024 17:59:38 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home2/hercul27/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[11-Feb-2024 17:59:38 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home2/hercul27/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[11-Feb-2024 17:59:38 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home2/hercul27/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[11-Feb-2024 17:59:38 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home2/hercul27/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[11-Feb-2024 17:59:38 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home2/hercul27/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[11-Feb-2024 17:59:38 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home2/hercul27/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[11-Feb-2024 17:59:38 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home2/hercul27/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[11-Feb-2024 17:59:38 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home2/hercul27/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[11-Feb-2024 17:59:38 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home2/hercul27/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[11-Feb-2024 17:59:38 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home2/hercul27/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[11-Feb-2024 17:59:38 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home2/hercul27/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[11-Feb-2024 17:59:38 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home2/hercul27/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[11-Feb-2024 17:59:38 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home2/hercul27/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[11-Feb-2024 17:59:38 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home2/hercul27/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[11-Feb-2024 17:59:38 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home2/hercul27/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[11-Feb-2024 17:59:38 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home2/hercul27/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[11-Feb-2024 17:59:38 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home2/hercul27/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[11-Feb-2024 17:59:38 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home2/hercul27/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[11-Feb-2024 17:59:38 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home2/hercul27/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[11-Feb-2024 17:59:38 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home2/hercul27/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[11-Feb-2024 17:59:38 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home2/hercul27/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[11-Feb-2024 17:59:38 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home2/hercul27/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[11-Feb-2024 17:59:38 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home2/hercul27/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[11-Feb-2024 17:59:38 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home2/hercul27/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[11-Feb-2024 17:59:38 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home2/hercul27/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[11-Feb-2024 17:59:38 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home2/hercul27/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[11-Feb-2024 17:59:38 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home2/hercul27/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[11-Feb-2024 17:59:38 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home2/hercul27/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[11-Feb-2024 17:59:38 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home2/hercul27/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[11-Feb-2024 17:59:38 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home2/hercul27/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[11-Feb-2024 17:59:38 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home2/hercul27/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[11-Feb-2024 17:59:38 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home2/hercul27/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[11-Feb-2024 17:59:38 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home2/hercul27/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[11-Feb-2024 17:59:38 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home2/hercul27/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[11-Feb-2024 17:59:38 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home2/hercul27/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[11-Feb-2024 17:59:38 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home2/hercul27/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[11-Feb-2024 17:59:38 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home2/hercul27/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[11-Feb-2024 17:59:38 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home2/hercul27/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[11-Feb-2024 17:59:38 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home2/hercul27/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[11-Feb-2024 17:59:38 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home2/hercul27/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[11-Feb-2024 17:59:38 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home2/hercul27/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[11-Feb-2024 17:59:38 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home2/hercul27/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[11-Feb-2024 17:59:38 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home2/hercul27/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[11-Feb-2024 17:59:38 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home2/hercul27/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[11-Feb-2024 17:59:38 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home2/hercul27/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[11-Feb-2024 17:59:38 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home2/hercul27/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[11-Feb-2024 17:59:38 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home2/hercul27/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[11-Feb-2024 17:59:38 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home2/hercul27/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[11-Feb-2024 17:59:38 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home2/hercul27/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[11-Feb-2024 17:59:38 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home2/hercul27/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[11-Feb-2024 17:59:38 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home2/hercul27/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[11-Feb-2024 17:59:38 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home2/hercul27/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[11-Feb-2024 17:59:38 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home2/hercul27/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[11-Feb-2024 17:59:38 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home2/hercul27/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[11-Feb-2024 17:59:38 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home2/hercul27/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[11-Feb-2024 17:59:38 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home2/hercul27/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[11-Feb-2024 17:59:38 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home2/hercul27/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[11-Feb-2024 17:59:38 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home2/hercul27/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[11-Feb-2024 17:59:38 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home2/hercul27/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[11-Feb-2024 17:59:38 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home2/hercul27/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[11-Feb-2024 17:59:38 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home2/hercul27/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[11-Feb-2024 17:59:38 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home2/hercul27/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[11-Feb-2024 17:59:38 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home2/hercul27/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[11-Feb-2024 17:59:38 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home2/hercul27/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[11-Feb-2024 17:59:38 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home2/hercul27/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[11-Feb-2024 17:59:38 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home2/hercul27/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[11-Feb-2024 18:00:11 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home2/hercul27/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[11-Feb-2024 18:00:11 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home2/hercul27/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[11-Feb-2024 18:00:11 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home2/hercul27/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[11-Feb-2024 18:00:11 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home2/hercul27/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[11-Feb-2024 18:00:11 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home2/hercul27/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[11-Feb-2024 18:00:11 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home2/hercul27/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[11-Feb-2024 18:00:11 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home2/hercul27/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[11-Feb-2024 18:00:11 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home2/hercul27/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[11-Feb-2024 18:18:19 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home2/hercul27/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[11-Feb-2024 18:18:19 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home2/hercul27/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[11-Feb-2024 18:18:19 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home2/hercul27/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[11-Feb-2024 18:18:19 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home2/hercul27/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[11-Feb-2024 18:18:19 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home2/hercul27/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[11-Feb-2024 18:18:19 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home2/hercul27/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[11-Feb-2024 18:18:19 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home2/hercul27/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[11-Feb-2024 18:18:19 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home2/hercul27/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[11-Feb-2024 18:33:19 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home2/hercul27/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[11-Feb-2024 18:33:19 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home2/hercul27/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[11-Feb-2024 18:33:19 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home2/hercul27/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[11-Feb-2024 18:33:19 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home2/hercul27/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[11-Feb-2024 18:33:19 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home2/hercul27/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[11-Feb-2024 18:33:19 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home2/hercul27/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[11-Feb-2024 18:33:19 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home2/hercul27/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[11-Feb-2024 18:33:19 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home2/hercul27/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[11-Feb-2024 18:33:19 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home2/hercul27/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[11-Feb-2024 18:33:19 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home2/hercul27/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[11-Feb-2024 18:33:19 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home2/hercul27/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[11-Feb-2024 18:33:19 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home2/hercul27/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[11-Feb-2024 18:33:19 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home2/hercul27/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[11-Feb-2024 18:33:19 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home2/hercul27/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[11-Feb-2024 18:33:19 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home2/hercul27/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[11-Feb-2024 18:33:19 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home2/hercul27/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[11-Feb-2024 18:33:19 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home2/hercul27/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[11-Feb-2024 18:33:19 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home2/hercul27/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[11-Feb-2024 18:33:19 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home2/hercul27/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[11-Feb-2024 18:33:19 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home2/hercul27/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[11-Feb-2024 18:33:19 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home2/hercul27/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[11-Feb-2024 18:33:19 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home2/hercul27/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[11-Feb-2024 18:33:19 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home2/hercul27/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[11-Feb-2024 18:33:19 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home2/hercul27/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[11-Feb-2024 18:33:19 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home2/hercul27/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[11-Feb-2024 18:33:19 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home2/hercul27/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[11-Feb-2024 18:33:19 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home2/hercul27/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[11-Feb-2024 18:33:19 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home2/hercul27/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[11-Feb-2024 18:33:19 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home2/hercul27/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[11-Feb-2024 18:33:19 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home2/hercul27/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[11-Feb-2024 18:33:19 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home2/hercul27/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[11-Feb-2024 18:33:19 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home2/hercul27/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[11-Feb-2024 18:33:19 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home2/hercul27/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[11-Feb-2024 18:33:19 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home2/hercul27/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[11-Feb-2024 18:33:19 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home2/hercul27/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[11-Feb-2024 18:33:19 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home2/hercul27/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[11-Feb-2024 18:33:19 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home2/hercul27/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[11-Feb-2024 18:33:19 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home2/hercul27/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[11-Feb-2024 18:33:19 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home2/hercul27/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[11-Feb-2024 18:33:19 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home2/hercul27/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[11-Feb-2024 18:33:19 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home2/hercul27/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[11-Feb-2024 18:33:19 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home2/hercul27/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[11-Feb-2024 18:33:19 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home2/hercul27/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[11-Feb-2024 18:33:19 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home2/hercul27/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[11-Feb-2024 18:33:19 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home2/hercul27/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[11-Feb-2024 18:33:19 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home2/hercul27/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[11-Feb-2024 18:33:19 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home2/hercul27/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[11-Feb-2024 18:33:19 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home2/hercul27/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[11-Feb-2024 18:33:19 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home2/hercul27/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[11-Feb-2024 18:33:19 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home2/hercul27/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[11-Feb-2024 18:33:19 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home2/hercul27/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[11-Feb-2024 18:33:19 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home2/hercul27/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[11-Feb-2024 18:33:19 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home2/hercul27/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[11-Feb-2024 18:33:19 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home2/hercul27/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[11-Feb-2024 18:33:19 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home2/hercul27/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[11-Feb-2024 18:33:19 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home2/hercul27/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[11-Feb-2024 18:33:19 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home2/hercul27/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[11-Feb-2024 18:33:19 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home2/hercul27/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[11-Feb-2024 18:33:19 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home2/hercul27/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[11-Feb-2024 18:33:19 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home2/hercul27/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[11-Feb-2024 18:33:19 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home2/hercul27/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[11-Feb-2024 18:33:19 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home2/hercul27/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[11-Feb-2024 18:33:19 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home2/hercul27/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[11-Feb-2024 18:33:19 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home2/hercul27/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[11-Feb-2024 18:33:19 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home2/hercul27/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[11-Feb-2024 18:33:19 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home2/hercul27/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[11-Feb-2024 18:33:19 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home2/hercul27/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[11-Feb-2024 18:33:19 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home2/hercul27/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[11-Feb-2024 18:33:19 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home2/hercul27/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[11-Feb-2024 18:33:19 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home2/hercul27/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[11-Feb-2024 18:33:19 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home2/hercul27/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[11-Feb-2024 18:33:19 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home2/hercul27/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[11-Feb-2024 18:33:19 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home2/hercul27/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[11-Feb-2024 18:33:19 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home2/hercul27/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[11-Feb-2024 18:33:19 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home2/hercul27/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[11-Feb-2024 18:33:19 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home2/hercul27/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[11-Feb-2024 18:33:19 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home2/hercul27/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[11-Feb-2024 18:33:19 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home2/hercul27/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[11-Feb-2024 18:33:19 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home2/hercul27/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[11-Feb-2024 18:33:19 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home2/hercul27/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[11-Feb-2024 18:33:19 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home2/hercul27/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[11-Feb-2024 18:33:19 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home2/hercul27/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[11-Feb-2024 18:33:19 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home2/hercul27/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[11-Feb-2024 18:33:19 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home2/hercul27/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[11-Feb-2024 18:33:19 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home2/hercul27/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[11-Feb-2024 18:33:19 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home2/hercul27/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[11-Feb-2024 18:33:19 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home2/hercul27/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[11-Feb-2024 18:33:19 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home2/hercul27/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[11-Feb-2024 18:33:19 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home2/hercul27/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[11-Feb-2024 18:33:19 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home2/hercul27/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[11-Feb-2024 18:33:19 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home2/hercul27/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[11-Feb-2024 18:33:19 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home2/hercul27/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[11-Feb-2024 18:33:19 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home2/hercul27/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[11-Feb-2024 18:33:19 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home2/hercul27/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[11-Feb-2024 18:33:19 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home2/hercul27/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[11-Feb-2024 18:33:19 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home2/hercul27/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[11-Feb-2024 18:34:19 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home2/hercul27/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[11-Feb-2024 18:34:19 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home2/hercul27/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[11-Feb-2024 18:34:19 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home2/hercul27/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[11-Feb-2024 18:34:19 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home2/hercul27/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[11-Feb-2024 18:34:19 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home2/hercul27/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[11-Feb-2024 18:34:19 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home2/hercul27/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[11-Feb-2024 18:34:19 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home2/hercul27/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[11-Feb-2024 18:34:19 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home2/hercul27/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[11-Feb-2024 18:34:19 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home2/hercul27/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[11-Feb-2024 18:34:19 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home2/hercul27/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[11-Feb-2024 18:34:19 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home2/hercul27/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[11-Feb-2024 18:34:19 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home2/hercul27/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[11-Feb-2024 18:34:19 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home2/hercul27/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[11-Feb-2024 18:34:19 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home2/hercul27/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[11-Feb-2024 18:34:19 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home2/hercul27/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[11-Feb-2024 18:34:19 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home2/hercul27/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[11-Feb-2024 18:34:19 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home2/hercul27/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[11-Feb-2024 18:34:19 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home2/hercul27/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[11-Feb-2024 18:34:19 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home2/hercul27/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[11-Feb-2024 18:34:19 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home2/hercul27/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[11-Feb-2024 18:34:19 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home2/hercul27/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[11-Feb-2024 18:34:19 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home2/hercul27/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[11-Feb-2024 18:34:19 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home2/hercul27/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[11-Feb-2024 18:34:19 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home2/hercul27/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[11-Feb-2024 18:34:19 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home2/hercul27/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[11-Feb-2024 18:34:19 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home2/hercul27/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[11-Feb-2024 18:34:19 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home2/hercul27/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[11-Feb-2024 18:34:19 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home2/hercul27/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[11-Feb-2024 18:34:19 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home2/hercul27/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[11-Feb-2024 18:34:19 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home2/hercul27/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[11-Feb-2024 18:34:19 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home2/hercul27/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[11-Feb-2024 18:34:19 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home2/hercul27/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[11-Feb-2024 18:34:19 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home2/hercul27/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[11-Feb-2024 18:34:19 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home2/hercul27/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[11-Feb-2024 18:34:19 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home2/hercul27/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[11-Feb-2024 18:34:19 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home2/hercul27/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[11-Feb-2024 18:34:19 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home2/hercul27/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[11-Feb-2024 18:34:19 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home2/hercul27/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[11-Feb-2024 18:34:19 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home2/hercul27/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[11-Feb-2024 18:34:19 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home2/hercul27/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[11-Feb-2024 18:34:19 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home2/hercul27/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[11-Feb-2024 18:34:19 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home2/hercul27/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[11-Feb-2024 18:34:19 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home2/hercul27/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[11-Feb-2024 18:34:19 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home2/hercul27/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[11-Feb-2024 18:34:19 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home2/hercul27/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[11-Feb-2024 18:34:19 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home2/hercul27/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[11-Feb-2024 18:34:19 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home2/hercul27/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[11-Feb-2024 18:34:19 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home2/hercul27/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[11-Feb-2024 18:34:19 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home2/hercul27/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[11-Feb-2024 18:34:19 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home2/hercul27/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[11-Feb-2024 18:34:19 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home2/hercul27/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[11-Feb-2024 18:34:19 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home2/hercul27/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[11-Feb-2024 18:34:19 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home2/hercul27/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[11-Feb-2024 18:34:19 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home2/hercul27/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[11-Feb-2024 18:34:19 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home2/hercul27/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[11-Feb-2024 18:34:19 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home2/hercul27/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[11-Feb-2024 18:34:19 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home2/hercul27/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[11-Feb-2024 18:34:19 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home2/hercul27/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[11-Feb-2024 18:34:19 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home2/hercul27/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[11-Feb-2024 18:34:19 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home2/hercul27/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[11-Feb-2024 18:34:19 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home2/hercul27/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[11-Feb-2024 18:34:19 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home2/hercul27/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[11-Feb-2024 18:34:19 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home2/hercul27/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[11-Feb-2024 18:34:19 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home2/hercul27/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[11-Feb-2024 18:34:19 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home2/hercul27/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[11-Feb-2024 18:34:19 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home2/hercul27/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[11-Feb-2024 18:34:19 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home2/hercul27/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[11-Feb-2024 18:34:19 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home2/hercul27/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[11-Feb-2024 18:34:19 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home2/hercul27/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[11-Feb-2024 18:34:19 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home2/hercul27/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[11-Feb-2024 18:34:19 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home2/hercul27/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[11-Feb-2024 18:34:19 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home2/hercul27/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[11-Feb-2024 18:34:19 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home2/hercul27/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[11-Feb-2024 18:34:19 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home2/hercul27/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[11-Feb-2024 18:34:19 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home2/hercul27/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[11-Feb-2024 18:34:19 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home2/hercul27/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[11-Feb-2024 18:34:19 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home2/hercul27/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[11-Feb-2024 18:34:19 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home2/hercul27/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[11-Feb-2024 18:34:19 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home2/hercul27/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[11-Feb-2024 18:34:19 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home2/hercul27/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[11-Feb-2024 18:34:19 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home2/hercul27/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[11-Feb-2024 18:34:19 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home2/hercul27/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[11-Feb-2024 18:34:19 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home2/hercul27/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[11-Feb-2024 18:34:19 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home2/hercul27/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[11-Feb-2024 18:34:19 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home2/hercul27/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[11-Feb-2024 18:34:19 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home2/hercul27/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[11-Feb-2024 18:34:19 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home2/hercul27/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[11-Feb-2024 18:34:19 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home2/hercul27/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[11-Feb-2024 18:34:19 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home2/hercul27/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[11-Feb-2024 18:34:19 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home2/hercul27/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[11-Feb-2024 18:34:19 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home2/hercul27/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[11-Feb-2024 18:34:19 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home2/hercul27/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[11-Feb-2024 18:34:19 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home2/hercul27/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[11-Feb-2024 18:34:19 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home2/hercul27/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[11-Feb-2024 18:34:19 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home2/hercul27/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[11-Feb-2024 18:34:19 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home2/hercul27/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[11-Feb-2024 18:34:38 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home2/hercul27/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[11-Feb-2024 18:34:38 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home2/hercul27/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[11-Feb-2024 18:34:38 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home2/hercul27/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[11-Feb-2024 18:34:38 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home2/hercul27/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[11-Feb-2024 18:34:38 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home2/hercul27/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[11-Feb-2024 18:34:38 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home2/hercul27/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[11-Feb-2024 18:34:38 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home2/hercul27/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[11-Feb-2024 18:34:38 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home2/hercul27/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[11-Feb-2024 18:40:28 UTC] WordPress database error Table 'hercul27_wp851.wpku_brizy_logs' doesn't exist for query TRUNCATE `wpku_brizy_logs` made by require_once('wp-load.php'), require_once('wp-config.php'), require_once('wp-settings.php'), do_action('init'), WP_Hook->do_action, WP_Hook->apply_filters, Brizy_Editor->runMigrations, Brizy_Admin_Migrations->runMigrations, Brizy_Admin_Migrations->upgradeTo, Brizy_Admin_Migrations_CleanLogsMigration->execute, Brizy_Logger::clean
+[11-Feb-2024 19:06:40 UTC] PHP Warning:  Undefined array key "custom-types" in /home2/hercul27/public_html/wp-content/plugins/royal-elementor-addons/admin/templates-kit.php on line 642
+[11-Feb-2024 19:41:16 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home2/hercul27/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[11-Feb-2024 19:41:16 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home2/hercul27/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[11-Feb-2024 19:41:16 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home2/hercul27/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[11-Feb-2024 19:41:16 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home2/hercul27/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[11-Feb-2024 19:41:16 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home2/hercul27/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[11-Feb-2024 19:41:16 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home2/hercul27/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[11-Feb-2024 19:41:16 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home2/hercul27/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[11-Feb-2024 19:41:16 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home2/hercul27/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[11-Feb-2024 19:41:16 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home2/hercul27/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[11-Feb-2024 19:41:16 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home2/hercul27/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[11-Feb-2024 19:41:16 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home2/hercul27/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[13-Feb-2024 02:24:05 UTC] PHP Warning:  Attempt to read property "title" on null in /home2/hercul27/public_html/wp-includes/class-wp-customize-widgets.php on line 905
+[13-Feb-2024 02:25:00 UTC] PHP Warning:  Attempt to read property "title" on null in /home2/hercul27/public_html/wp-includes/class-wp-customize-widgets.php on line 905
+[07-Mar-2024 23:28:20 UTC] PHP Warning:  Undefined array key 1 in /home2/hercul27/public_html/wp-content/plugins/royal-elementor-addons/classes/utilities.php on line 843
+[17-Mar-2024 13:01:51 UTC] PHP Warning:  Undefined array key 1 in /home2/hercul27/public_html/wp-content/plugins/royal-elementor-addons/classes/utilities.php on line 843

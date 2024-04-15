@@ -1,0 +1,1393 @@
+[05-Feb-2024 11:52:19 America/Fortaleza] PHP Warning:  Undefined array key "id" in /home2/hercul27/public_html/pixasaas/link_pagamento.php on line 4
+[05-Feb-2024 11:52:19 America/Fortaleza] PHP Warning:  Undefined array key "id" in /home2/hercul27/public_html/pixasaas/link_pagamento.php on line 22
+[05-Feb-2024 11:52:19 America/Fortaleza] PHP Warning:  Undefined array key "valor" in /home2/hercul27/public_html/pixasaas/link_pagamento.php on line 28
+[05-Feb-2024 11:52:59 America/Fortaleza] PHP Warning:  Undefined array key "id" in /home2/hercul27/public_html/pixasaas/link_pagamento.php on line 4
+[05-Feb-2024 11:52:59 America/Fortaleza] PHP Warning:  Undefined array key "id" in /home2/hercul27/public_html/pixasaas/link_pagamento.php on line 22
+[05-Feb-2024 11:52:59 America/Fortaleza] PHP Warning:  Undefined array key "valor" in /home2/hercul27/public_html/pixasaas/link_pagamento.php on line 28
+[05-Feb-2024 11:55:07 America/Fortaleza] PHP Warning:  Undefined array key "id" in /home2/hercul27/public_html/pixasaas/link_pagamento.php on line 4
+[05-Feb-2024 11:55:07 America/Fortaleza] PHP Warning:  Undefined array key "id" in /home2/hercul27/public_html/pixasaas/link_pagamento.php on line 22
+[05-Feb-2024 11:55:07 America/Fortaleza] PHP Warning:  Undefined array key "valor" in /home2/hercul27/public_html/pixasaas/link_pagamento.php on line 28
+[05-Feb-2024 11:55:09 America/Fortaleza] PHP Warning:  Undefined array key "id" in /home2/hercul27/public_html/pixasaas/link_pagamento.php on line 4
+[05-Feb-2024 11:55:09 America/Fortaleza] PHP Warning:  Undefined array key "id" in /home2/hercul27/public_html/pixasaas/link_pagamento.php on line 22
+[05-Feb-2024 11:55:09 America/Fortaleza] PHP Warning:  Undefined array key "valor" in /home2/hercul27/public_html/pixasaas/link_pagamento.php on line 28
+[05-Feb-2024 12:00:41 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home2/hercul27/public_html/pixasaas/link_pagamento.php:18
+Stack trace:
+#0 /home2/hercul27/public_html/pixasaas/link_pagamento.php(18): mysqli->query('SELECT pass FRO...')
+#1 {main}
+  thrown in /home2/hercul27/public_html/pixasaas/link_pagamento.php on line 18
+[05-Feb-2024 12:06:40 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home2/hercul27/public_html/pixasaas/link_pagamento.php:18
+Stack trace:
+#0 /home2/hercul27/public_html/pixasaas/link_pagamento.php(18): mysqli->query('SELECT pass FRO...')
+#1 {main}
+  thrown in /home2/hercul27/public_html/pixasaas/link_pagamento.php on line 18
+[09-Feb-2024 11:42:17 America/Fortaleza] PHP Warning:  Undefined array key "payment_id" in /home2/hercul27/public_html/pixasaas/webhook.php on line 48
+[09-Feb-2024 11:42:17 America/Fortaleza] PHP Warning:  Undefined array key "amount" in /home2/hercul27/public_html/pixasaas/webhook.php on line 49
+[09-Feb-2024 11:42:17 America/Fortaleza] PHP Warning:  Undefined array key "customer_name" in /home2/hercul27/public_html/pixasaas/webhook.php on line 50
+[09-Feb-2024 11:42:17 America/Fortaleza] PHP Warning:  Undefined array key "customer_email" in /home2/hercul27/public_html/pixasaas/webhook.php on line 51
+[09-Feb-2024 11:42:17 America/Fortaleza] PHP Warning:  Undefined array key "payment_date" in /home2/hercul27/public_html/pixasaas/webhook.php on line 52
+[09-Feb-2024 11:42:17 America/Fortaleza] PHP Warning:  Undefined array key "status" in /home2/hercul27/public_html/pixasaas/webhook.php on line 53
+[09-Feb-2024 11:42:17 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ' '', '', '', '', '2024-02-09 11:42:17')' at line 1 in /home2/hercul27/public_html/pixasaas/webhook.php:58
+Stack trace:
+#0 /home2/hercul27/public_html/pixasaas/webhook.php(58): mysqli->query('INSERT INTO web...')
+#1 /home2/hercul27/public_html/pixasaas/webhook.php(14): handleWebhookData(Array)
+#2 {main}
+  thrown in /home2/hercul27/public_html/pixasaas/webhook.php on line 58
+[09-Feb-2024 11:42:18 America/Fortaleza] PHP Warning:  Undefined array key "payment_id" in /home2/hercul27/public_html/pixasaas/webhook.php on line 48
+[09-Feb-2024 11:42:18 America/Fortaleza] PHP Warning:  Undefined array key "amount" in /home2/hercul27/public_html/pixasaas/webhook.php on line 49
+[09-Feb-2024 11:42:18 America/Fortaleza] PHP Warning:  Undefined array key "customer_name" in /home2/hercul27/public_html/pixasaas/webhook.php on line 50
+[09-Feb-2024 11:42:18 America/Fortaleza] PHP Warning:  Undefined array key "customer_email" in /home2/hercul27/public_html/pixasaas/webhook.php on line 51
+[09-Feb-2024 11:42:18 America/Fortaleza] PHP Warning:  Undefined array key "payment_date" in /home2/hercul27/public_html/pixasaas/webhook.php on line 52
+[09-Feb-2024 11:42:18 America/Fortaleza] PHP Warning:  Undefined array key "status" in /home2/hercul27/public_html/pixasaas/webhook.php on line 53
+[09-Feb-2024 11:42:18 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ' '', '', '', '', '2024-02-09 11:42:18')' at line 1 in /home2/hercul27/public_html/pixasaas/webhook.php:58
+Stack trace:
+#0 /home2/hercul27/public_html/pixasaas/webhook.php(58): mysqli->query('INSERT INTO web...')
+#1 /home2/hercul27/public_html/pixasaas/webhook.php(14): handleWebhookData(Array)
+#2 {main}
+  thrown in /home2/hercul27/public_html/pixasaas/webhook.php on line 58
+[09-Feb-2024 11:42:19 America/Fortaleza] PHP Warning:  Undefined array key "payment_id" in /home2/hercul27/public_html/pixasaas/webhook.php on line 48
+[09-Feb-2024 11:42:19 America/Fortaleza] PHP Warning:  Undefined array key "amount" in /home2/hercul27/public_html/pixasaas/webhook.php on line 49
+[09-Feb-2024 11:42:19 America/Fortaleza] PHP Warning:  Undefined array key "customer_name" in /home2/hercul27/public_html/pixasaas/webhook.php on line 50
+[09-Feb-2024 11:42:19 America/Fortaleza] PHP Warning:  Undefined array key "customer_email" in /home2/hercul27/public_html/pixasaas/webhook.php on line 51
+[09-Feb-2024 11:42:19 America/Fortaleza] PHP Warning:  Undefined array key "payment_date" in /home2/hercul27/public_html/pixasaas/webhook.php on line 52
+[09-Feb-2024 11:42:19 America/Fortaleza] PHP Warning:  Undefined array key "status" in /home2/hercul27/public_html/pixasaas/webhook.php on line 53
+[09-Feb-2024 11:42:19 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ' '', '', '', '', '2024-02-09 11:42:19')' at line 1 in /home2/hercul27/public_html/pixasaas/webhook.php:58
+Stack trace:
+#0 /home2/hercul27/public_html/pixasaas/webhook.php(58): mysqli->query('INSERT INTO web...')
+#1 /home2/hercul27/public_html/pixasaas/webhook.php(14): handleWebhookData(Array)
+#2 {main}
+  thrown in /home2/hercul27/public_html/pixasaas/webhook.php on line 58
+[09-Feb-2024 11:42:21 America/Fortaleza] PHP Warning:  Undefined array key "payment_id" in /home2/hercul27/public_html/pixasaas/webhook.php on line 48
+[09-Feb-2024 11:42:21 America/Fortaleza] PHP Warning:  Undefined array key "amount" in /home2/hercul27/public_html/pixasaas/webhook.php on line 49
+[09-Feb-2024 11:42:21 America/Fortaleza] PHP Warning:  Undefined array key "customer_name" in /home2/hercul27/public_html/pixasaas/webhook.php on line 50
+[09-Feb-2024 11:42:21 America/Fortaleza] PHP Warning:  Undefined array key "customer_email" in /home2/hercul27/public_html/pixasaas/webhook.php on line 51
+[09-Feb-2024 11:42:21 America/Fortaleza] PHP Warning:  Undefined array key "payment_date" in /home2/hercul27/public_html/pixasaas/webhook.php on line 52
+[09-Feb-2024 11:42:21 America/Fortaleza] PHP Warning:  Undefined array key "status" in /home2/hercul27/public_html/pixasaas/webhook.php on line 53
+[09-Feb-2024 11:42:21 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ' '', '', '', '', '2024-02-09 11:42:21')' at line 1 in /home2/hercul27/public_html/pixasaas/webhook.php:58
+Stack trace:
+#0 /home2/hercul27/public_html/pixasaas/webhook.php(58): mysqli->query('INSERT INTO web...')
+#1 /home2/hercul27/public_html/pixasaas/webhook.php(14): handleWebhookData(Array)
+#2 {main}
+  thrown in /home2/hercul27/public_html/pixasaas/webhook.php on line 58
+[09-Feb-2024 11:42:22 America/Fortaleza] PHP Warning:  Undefined array key "payment_id" in /home2/hercul27/public_html/pixasaas/webhook.php on line 48
+[09-Feb-2024 11:42:22 America/Fortaleza] PHP Warning:  Undefined array key "amount" in /home2/hercul27/public_html/pixasaas/webhook.php on line 49
+[09-Feb-2024 11:42:22 America/Fortaleza] PHP Warning:  Undefined array key "customer_name" in /home2/hercul27/public_html/pixasaas/webhook.php on line 50
+[09-Feb-2024 11:42:22 America/Fortaleza] PHP Warning:  Undefined array key "customer_email" in /home2/hercul27/public_html/pixasaas/webhook.php on line 51
+[09-Feb-2024 11:42:22 America/Fortaleza] PHP Warning:  Undefined array key "payment_date" in /home2/hercul27/public_html/pixasaas/webhook.php on line 52
+[09-Feb-2024 11:42:22 America/Fortaleza] PHP Warning:  Undefined array key "status" in /home2/hercul27/public_html/pixasaas/webhook.php on line 53
+[09-Feb-2024 11:42:22 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ' '', '', '', '', '2024-02-09 11:42:22')' at line 1 in /home2/hercul27/public_html/pixasaas/webhook.php:58
+Stack trace:
+#0 /home2/hercul27/public_html/pixasaas/webhook.php(58): mysqli->query('INSERT INTO web...')
+#1 /home2/hercul27/public_html/pixasaas/webhook.php(14): handleWebhookData(Array)
+#2 {main}
+  thrown in /home2/hercul27/public_html/pixasaas/webhook.php on line 58
+[09-Feb-2024 11:42:24 America/Fortaleza] PHP Warning:  Undefined array key "payment_id" in /home2/hercul27/public_html/pixasaas/webhook.php on line 48
+[09-Feb-2024 11:42:24 America/Fortaleza] PHP Warning:  Undefined array key "amount" in /home2/hercul27/public_html/pixasaas/webhook.php on line 49
+[09-Feb-2024 11:42:24 America/Fortaleza] PHP Warning:  Undefined array key "customer_name" in /home2/hercul27/public_html/pixasaas/webhook.php on line 50
+[09-Feb-2024 11:42:24 America/Fortaleza] PHP Warning:  Undefined array key "customer_email" in /home2/hercul27/public_html/pixasaas/webhook.php on line 51
+[09-Feb-2024 11:42:24 America/Fortaleza] PHP Warning:  Undefined array key "payment_date" in /home2/hercul27/public_html/pixasaas/webhook.php on line 52
+[09-Feb-2024 11:42:24 America/Fortaleza] PHP Warning:  Undefined array key "status" in /home2/hercul27/public_html/pixasaas/webhook.php on line 53
+[09-Feb-2024 11:42:24 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ' '', '', '', '', '2024-02-09 11:42:24')' at line 1 in /home2/hercul27/public_html/pixasaas/webhook.php:58
+Stack trace:
+#0 /home2/hercul27/public_html/pixasaas/webhook.php(58): mysqli->query('INSERT INTO web...')
+#1 /home2/hercul27/public_html/pixasaas/webhook.php(14): handleWebhookData(Array)
+#2 {main}
+  thrown in /home2/hercul27/public_html/pixasaas/webhook.php on line 58
+[09-Feb-2024 11:42:25 America/Fortaleza] PHP Warning:  Undefined array key "payment_id" in /home2/hercul27/public_html/pixasaas/webhook.php on line 48
+[09-Feb-2024 11:42:25 America/Fortaleza] PHP Warning:  Undefined array key "amount" in /home2/hercul27/public_html/pixasaas/webhook.php on line 49
+[09-Feb-2024 11:42:25 America/Fortaleza] PHP Warning:  Undefined array key "customer_name" in /home2/hercul27/public_html/pixasaas/webhook.php on line 50
+[09-Feb-2024 11:42:25 America/Fortaleza] PHP Warning:  Undefined array key "customer_email" in /home2/hercul27/public_html/pixasaas/webhook.php on line 51
+[09-Feb-2024 11:42:25 America/Fortaleza] PHP Warning:  Undefined array key "payment_date" in /home2/hercul27/public_html/pixasaas/webhook.php on line 52
+[09-Feb-2024 11:42:25 America/Fortaleza] PHP Warning:  Undefined array key "status" in /home2/hercul27/public_html/pixasaas/webhook.php on line 53
+[09-Feb-2024 11:42:25 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ' '', '', '', '', '2024-02-09 11:42:25')' at line 1 in /home2/hercul27/public_html/pixasaas/webhook.php:58
+Stack trace:
+#0 /home2/hercul27/public_html/pixasaas/webhook.php(58): mysqli->query('INSERT INTO web...')
+#1 /home2/hercul27/public_html/pixasaas/webhook.php(14): handleWebhookData(Array)
+#2 {main}
+  thrown in /home2/hercul27/public_html/pixasaas/webhook.php on line 58
+[09-Feb-2024 11:42:27 America/Fortaleza] PHP Warning:  Undefined array key "payment_id" in /home2/hercul27/public_html/pixasaas/webhook.php on line 48
+[09-Feb-2024 11:42:27 America/Fortaleza] PHP Warning:  Undefined array key "amount" in /home2/hercul27/public_html/pixasaas/webhook.php on line 49
+[09-Feb-2024 11:42:27 America/Fortaleza] PHP Warning:  Undefined array key "customer_name" in /home2/hercul27/public_html/pixasaas/webhook.php on line 50
+[09-Feb-2024 11:42:27 America/Fortaleza] PHP Warning:  Undefined array key "customer_email" in /home2/hercul27/public_html/pixasaas/webhook.php on line 51
+[09-Feb-2024 11:42:27 America/Fortaleza] PHP Warning:  Undefined array key "payment_date" in /home2/hercul27/public_html/pixasaas/webhook.php on line 52
+[09-Feb-2024 11:42:27 America/Fortaleza] PHP Warning:  Undefined array key "status" in /home2/hercul27/public_html/pixasaas/webhook.php on line 53
+[09-Feb-2024 11:42:27 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ' '', '', '', '', '2024-02-09 11:42:27')' at line 1 in /home2/hercul27/public_html/pixasaas/webhook.php:58
+Stack trace:
+#0 /home2/hercul27/public_html/pixasaas/webhook.php(58): mysqli->query('INSERT INTO web...')
+#1 /home2/hercul27/public_html/pixasaas/webhook.php(14): handleWebhookData(Array)
+#2 {main}
+  thrown in /home2/hercul27/public_html/pixasaas/webhook.php on line 58
+[09-Feb-2024 11:42:28 America/Fortaleza] PHP Warning:  Undefined array key "payment_id" in /home2/hercul27/public_html/pixasaas/webhook.php on line 48
+[09-Feb-2024 11:42:28 America/Fortaleza] PHP Warning:  Undefined array key "amount" in /home2/hercul27/public_html/pixasaas/webhook.php on line 49
+[09-Feb-2024 11:42:28 America/Fortaleza] PHP Warning:  Undefined array key "customer_name" in /home2/hercul27/public_html/pixasaas/webhook.php on line 50
+[09-Feb-2024 11:42:28 America/Fortaleza] PHP Warning:  Undefined array key "customer_email" in /home2/hercul27/public_html/pixasaas/webhook.php on line 51
+[09-Feb-2024 11:42:28 America/Fortaleza] PHP Warning:  Undefined array key "payment_date" in /home2/hercul27/public_html/pixasaas/webhook.php on line 52
+[09-Feb-2024 11:42:28 America/Fortaleza] PHP Warning:  Undefined array key "status" in /home2/hercul27/public_html/pixasaas/webhook.php on line 53
+[09-Feb-2024 11:42:28 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ' '', '', '', '', '2024-02-09 11:42:28')' at line 1 in /home2/hercul27/public_html/pixasaas/webhook.php:58
+Stack trace:
+#0 /home2/hercul27/public_html/pixasaas/webhook.php(58): mysqli->query('INSERT INTO web...')
+#1 /home2/hercul27/public_html/pixasaas/webhook.php(14): handleWebhookData(Array)
+#2 {main}
+  thrown in /home2/hercul27/public_html/pixasaas/webhook.php on line 58
+[09-Feb-2024 11:42:30 America/Fortaleza] PHP Warning:  Undefined array key "payment_id" in /home2/hercul27/public_html/pixasaas/webhook.php on line 48
+[09-Feb-2024 11:42:30 America/Fortaleza] PHP Warning:  Undefined array key "amount" in /home2/hercul27/public_html/pixasaas/webhook.php on line 49
+[09-Feb-2024 11:42:30 America/Fortaleza] PHP Warning:  Undefined array key "customer_name" in /home2/hercul27/public_html/pixasaas/webhook.php on line 50
+[09-Feb-2024 11:42:30 America/Fortaleza] PHP Warning:  Undefined array key "customer_email" in /home2/hercul27/public_html/pixasaas/webhook.php on line 51
+[09-Feb-2024 11:42:30 America/Fortaleza] PHP Warning:  Undefined array key "payment_date" in /home2/hercul27/public_html/pixasaas/webhook.php on line 52
+[09-Feb-2024 11:42:30 America/Fortaleza] PHP Warning:  Undefined array key "status" in /home2/hercul27/public_html/pixasaas/webhook.php on line 53
+[09-Feb-2024 11:42:30 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ' '', '', '', '', '2024-02-09 11:42:30')' at line 1 in /home2/hercul27/public_html/pixasaas/webhook.php:58
+Stack trace:
+#0 /home2/hercul27/public_html/pixasaas/webhook.php(58): mysqli->query('INSERT INTO web...')
+#1 /home2/hercul27/public_html/pixasaas/webhook.php(14): handleWebhookData(Array)
+#2 {main}
+  thrown in /home2/hercul27/public_html/pixasaas/webhook.php on line 58
+[09-Feb-2024 11:42:31 America/Fortaleza] PHP Warning:  Undefined array key "payment_id" in /home2/hercul27/public_html/pixasaas/webhook.php on line 48
+[09-Feb-2024 11:42:31 America/Fortaleza] PHP Warning:  Undefined array key "amount" in /home2/hercul27/public_html/pixasaas/webhook.php on line 49
+[09-Feb-2024 11:42:31 America/Fortaleza] PHP Warning:  Undefined array key "customer_name" in /home2/hercul27/public_html/pixasaas/webhook.php on line 50
+[09-Feb-2024 11:42:31 America/Fortaleza] PHP Warning:  Undefined array key "customer_email" in /home2/hercul27/public_html/pixasaas/webhook.php on line 51
+[09-Feb-2024 11:42:31 America/Fortaleza] PHP Warning:  Undefined array key "payment_date" in /home2/hercul27/public_html/pixasaas/webhook.php on line 52
+[09-Feb-2024 11:42:31 America/Fortaleza] PHP Warning:  Undefined array key "status" in /home2/hercul27/public_html/pixasaas/webhook.php on line 53
+[09-Feb-2024 11:42:31 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ' '', '', '', '', '2024-02-09 11:42:31')' at line 1 in /home2/hercul27/public_html/pixasaas/webhook.php:58
+Stack trace:
+#0 /home2/hercul27/public_html/pixasaas/webhook.php(58): mysqli->query('INSERT INTO web...')
+#1 /home2/hercul27/public_html/pixasaas/webhook.php(14): handleWebhookData(Array)
+#2 {main}
+  thrown in /home2/hercul27/public_html/pixasaas/webhook.php on line 58
+[09-Feb-2024 11:42:33 America/Fortaleza] PHP Warning:  Undefined array key "payment_id" in /home2/hercul27/public_html/pixasaas/webhook.php on line 48
+[09-Feb-2024 11:42:33 America/Fortaleza] PHP Warning:  Undefined array key "amount" in /home2/hercul27/public_html/pixasaas/webhook.php on line 49
+[09-Feb-2024 11:42:33 America/Fortaleza] PHP Warning:  Undefined array key "customer_name" in /home2/hercul27/public_html/pixasaas/webhook.php on line 50
+[09-Feb-2024 11:42:33 America/Fortaleza] PHP Warning:  Undefined array key "customer_email" in /home2/hercul27/public_html/pixasaas/webhook.php on line 51
+[09-Feb-2024 11:42:33 America/Fortaleza] PHP Warning:  Undefined array key "payment_date" in /home2/hercul27/public_html/pixasaas/webhook.php on line 52
+[09-Feb-2024 11:42:33 America/Fortaleza] PHP Warning:  Undefined array key "status" in /home2/hercul27/public_html/pixasaas/webhook.php on line 53
+[09-Feb-2024 11:42:33 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ' '', '', '', '', '2024-02-09 11:42:33')' at line 1 in /home2/hercul27/public_html/pixasaas/webhook.php:58
+Stack trace:
+#0 /home2/hercul27/public_html/pixasaas/webhook.php(58): mysqli->query('INSERT INTO web...')
+#1 /home2/hercul27/public_html/pixasaas/webhook.php(14): handleWebhookData(Array)
+#2 {main}
+  thrown in /home2/hercul27/public_html/pixasaas/webhook.php on line 58
+[09-Feb-2024 11:42:34 America/Fortaleza] PHP Warning:  Undefined array key "payment_id" in /home2/hercul27/public_html/pixasaas/webhook.php on line 48
+[09-Feb-2024 11:42:34 America/Fortaleza] PHP Warning:  Undefined array key "amount" in /home2/hercul27/public_html/pixasaas/webhook.php on line 49
+[09-Feb-2024 11:42:34 America/Fortaleza] PHP Warning:  Undefined array key "customer_name" in /home2/hercul27/public_html/pixasaas/webhook.php on line 50
+[09-Feb-2024 11:42:34 America/Fortaleza] PHP Warning:  Undefined array key "customer_email" in /home2/hercul27/public_html/pixasaas/webhook.php on line 51
+[09-Feb-2024 11:42:34 America/Fortaleza] PHP Warning:  Undefined array key "payment_date" in /home2/hercul27/public_html/pixasaas/webhook.php on line 52
+[09-Feb-2024 11:42:34 America/Fortaleza] PHP Warning:  Undefined array key "status" in /home2/hercul27/public_html/pixasaas/webhook.php on line 53
+[09-Feb-2024 11:42:34 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ' '', '', '', '', '2024-02-09 11:42:34')' at line 1 in /home2/hercul27/public_html/pixasaas/webhook.php:58
+Stack trace:
+#0 /home2/hercul27/public_html/pixasaas/webhook.php(58): mysqli->query('INSERT INTO web...')
+#1 /home2/hercul27/public_html/pixasaas/webhook.php(14): handleWebhookData(Array)
+#2 {main}
+  thrown in /home2/hercul27/public_html/pixasaas/webhook.php on line 58
+[09-Feb-2024 11:42:36 America/Fortaleza] PHP Warning:  Undefined array key "payment_id" in /home2/hercul27/public_html/pixasaas/webhook.php on line 48
+[09-Feb-2024 11:42:36 America/Fortaleza] PHP Warning:  Undefined array key "amount" in /home2/hercul27/public_html/pixasaas/webhook.php on line 49
+[09-Feb-2024 11:42:36 America/Fortaleza] PHP Warning:  Undefined array key "customer_name" in /home2/hercul27/public_html/pixasaas/webhook.php on line 50
+[09-Feb-2024 11:42:36 America/Fortaleza] PHP Warning:  Undefined array key "customer_email" in /home2/hercul27/public_html/pixasaas/webhook.php on line 51
+[09-Feb-2024 11:42:36 America/Fortaleza] PHP Warning:  Undefined array key "payment_date" in /home2/hercul27/public_html/pixasaas/webhook.php on line 52
+[09-Feb-2024 11:42:36 America/Fortaleza] PHP Warning:  Undefined array key "status" in /home2/hercul27/public_html/pixasaas/webhook.php on line 53
+[09-Feb-2024 11:42:36 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ' '', '', '', '', '2024-02-09 11:42:36')' at line 1 in /home2/hercul27/public_html/pixasaas/webhook.php:58
+Stack trace:
+#0 /home2/hercul27/public_html/pixasaas/webhook.php(58): mysqli->query('INSERT INTO web...')
+#1 /home2/hercul27/public_html/pixasaas/webhook.php(14): handleWebhookData(Array)
+#2 {main}
+  thrown in /home2/hercul27/public_html/pixasaas/webhook.php on line 58
+[09-Feb-2024 11:42:37 America/Fortaleza] PHP Warning:  Undefined array key "payment_id" in /home2/hercul27/public_html/pixasaas/webhook.php on line 48
+[09-Feb-2024 11:42:37 America/Fortaleza] PHP Warning:  Undefined array key "amount" in /home2/hercul27/public_html/pixasaas/webhook.php on line 49
+[09-Feb-2024 11:42:37 America/Fortaleza] PHP Warning:  Undefined array key "customer_name" in /home2/hercul27/public_html/pixasaas/webhook.php on line 50
+[09-Feb-2024 11:42:37 America/Fortaleza] PHP Warning:  Undefined array key "customer_email" in /home2/hercul27/public_html/pixasaas/webhook.php on line 51
+[09-Feb-2024 11:42:37 America/Fortaleza] PHP Warning:  Undefined array key "payment_date" in /home2/hercul27/public_html/pixasaas/webhook.php on line 52
+[09-Feb-2024 11:42:37 America/Fortaleza] PHP Warning:  Undefined array key "status" in /home2/hercul27/public_html/pixasaas/webhook.php on line 53
+[09-Feb-2024 11:42:37 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ' '', '', '', '', '2024-02-09 11:42:37')' at line 1 in /home2/hercul27/public_html/pixasaas/webhook.php:58
+Stack trace:
+#0 /home2/hercul27/public_html/pixasaas/webhook.php(58): mysqli->query('INSERT INTO web...')
+#1 /home2/hercul27/public_html/pixasaas/webhook.php(14): handleWebhookData(Array)
+#2 {main}
+  thrown in /home2/hercul27/public_html/pixasaas/webhook.php on line 58
+[09-Feb-2024 11:58:18 America/Fortaleza] PHP Warning:  Undefined array key "eventName" in /home2/hercul27/public_html/pixasaas/webhook.php on line 55
+[09-Feb-2024 11:58:18 America/Fortaleza] PHP Warning:  Undefined array key "eventData" in /home2/hercul27/public_html/pixasaas/webhook.php on line 56
+[09-Feb-2024 11:58:18 America/Fortaleza] PHP Warning:  Undefined array key "eventName" in /home2/hercul27/public_html/pixasaas/webhook.php on line 55
+[09-Feb-2024 11:58:18 America/Fortaleza] PHP Warning:  Undefined array key "eventData" in /home2/hercul27/public_html/pixasaas/webhook.php on line 56
+[09-Feb-2024 11:58:19 America/Fortaleza] PHP Warning:  Undefined array key "eventName" in /home2/hercul27/public_html/pixasaas/webhook.php on line 55
+[09-Feb-2024 11:58:19 America/Fortaleza] PHP Warning:  Undefined array key "eventData" in /home2/hercul27/public_html/pixasaas/webhook.php on line 56
+[09-Feb-2024 11:58:19 America/Fortaleza] PHP Warning:  Undefined array key "eventName" in /home2/hercul27/public_html/pixasaas/webhook.php on line 55
+[09-Feb-2024 11:58:19 America/Fortaleza] PHP Warning:  Undefined array key "eventData" in /home2/hercul27/public_html/pixasaas/webhook.php on line 56
+[09-Feb-2024 11:58:19 America/Fortaleza] PHP Warning:  Undefined array key "eventName" in /home2/hercul27/public_html/pixasaas/webhook.php on line 55
+[09-Feb-2024 11:58:19 America/Fortaleza] PHP Warning:  Undefined array key "eventData" in /home2/hercul27/public_html/pixasaas/webhook.php on line 56
+[09-Feb-2024 11:58:19 America/Fortaleza] PHP Warning:  Undefined array key "eventName" in /home2/hercul27/public_html/pixasaas/webhook.php on line 55
+[09-Feb-2024 11:58:19 America/Fortaleza] PHP Warning:  Undefined array key "eventData" in /home2/hercul27/public_html/pixasaas/webhook.php on line 56
+[09-Feb-2024 11:58:20 America/Fortaleza] PHP Warning:  Undefined array key "eventName" in /home2/hercul27/public_html/pixasaas/webhook.php on line 55
+[09-Feb-2024 11:58:20 America/Fortaleza] PHP Warning:  Undefined array key "eventData" in /home2/hercul27/public_html/pixasaas/webhook.php on line 56
+[09-Feb-2024 11:58:20 America/Fortaleza] PHP Warning:  Undefined array key "eventName" in /home2/hercul27/public_html/pixasaas/webhook.php on line 55
+[09-Feb-2024 11:58:20 America/Fortaleza] PHP Warning:  Undefined array key "eventData" in /home2/hercul27/public_html/pixasaas/webhook.php on line 56
+[09-Feb-2024 12:26:19 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'payment_id' in 'field list' in /home2/hercul27/public_html/pixasaas/webhook.php:58
+Stack trace:
+#0 /home2/hercul27/public_html/pixasaas/webhook.php(58): mysqli->query('INSERT INTO pag...')
+#1 {main}
+  thrown in /home2/hercul27/public_html/pixasaas/webhook.php on line 58
+[09-Feb-2024 12:26:20 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'payment_id' in 'field list' in /home2/hercul27/public_html/pixasaas/webhook.php:58
+Stack trace:
+#0 /home2/hercul27/public_html/pixasaas/webhook.php(58): mysqli->query('INSERT INTO pag...')
+#1 {main}
+  thrown in /home2/hercul27/public_html/pixasaas/webhook.php on line 58
+[09-Feb-2024 12:26:21 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'payment_id' in 'field list' in /home2/hercul27/public_html/pixasaas/webhook.php:58
+Stack trace:
+#0 /home2/hercul27/public_html/pixasaas/webhook.php(58): mysqli->query('INSERT INTO pag...')
+#1 {main}
+  thrown in /home2/hercul27/public_html/pixasaas/webhook.php on line 58
+[09-Feb-2024 12:26:23 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'payment_id' in 'field list' in /home2/hercul27/public_html/pixasaas/webhook.php:58
+Stack trace:
+#0 /home2/hercul27/public_html/pixasaas/webhook.php(58): mysqli->query('INSERT INTO pag...')
+#1 {main}
+  thrown in /home2/hercul27/public_html/pixasaas/webhook.php on line 58
+[09-Feb-2024 12:26:24 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'payment_id' in 'field list' in /home2/hercul27/public_html/pixasaas/webhook.php:58
+Stack trace:
+#0 /home2/hercul27/public_html/pixasaas/webhook.php(58): mysqli->query('INSERT INTO pag...')
+#1 {main}
+  thrown in /home2/hercul27/public_html/pixasaas/webhook.php on line 58
+[09-Feb-2024 12:26:26 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'payment_id' in 'field list' in /home2/hercul27/public_html/pixasaas/webhook.php:58
+Stack trace:
+#0 /home2/hercul27/public_html/pixasaas/webhook.php(58): mysqli->query('INSERT INTO pag...')
+#1 {main}
+  thrown in /home2/hercul27/public_html/pixasaas/webhook.php on line 58
+[09-Feb-2024 12:26:27 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'payment_id' in 'field list' in /home2/hercul27/public_html/pixasaas/webhook.php:58
+Stack trace:
+#0 /home2/hercul27/public_html/pixasaas/webhook.php(58): mysqli->query('INSERT INTO pag...')
+#1 {main}
+  thrown in /home2/hercul27/public_html/pixasaas/webhook.php on line 58
+[09-Feb-2024 12:26:29 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'payment_id' in 'field list' in /home2/hercul27/public_html/pixasaas/webhook.php:58
+Stack trace:
+#0 /home2/hercul27/public_html/pixasaas/webhook.php(58): mysqli->query('INSERT INTO pag...')
+#1 {main}
+  thrown in /home2/hercul27/public_html/pixasaas/webhook.php on line 58
+[09-Feb-2024 12:26:30 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'payment_id' in 'field list' in /home2/hercul27/public_html/pixasaas/webhook.php:58
+Stack trace:
+#0 /home2/hercul27/public_html/pixasaas/webhook.php(58): mysqli->query('INSERT INTO pag...')
+#1 {main}
+  thrown in /home2/hercul27/public_html/pixasaas/webhook.php on line 58
+[09-Feb-2024 12:26:32 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'payment_id' in 'field list' in /home2/hercul27/public_html/pixasaas/webhook.php:58
+Stack trace:
+#0 /home2/hercul27/public_html/pixasaas/webhook.php(58): mysqli->query('INSERT INTO pag...')
+#1 {main}
+  thrown in /home2/hercul27/public_html/pixasaas/webhook.php on line 58
+[09-Feb-2024 12:26:33 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'payment_id' in 'field list' in /home2/hercul27/public_html/pixasaas/webhook.php:58
+Stack trace:
+#0 /home2/hercul27/public_html/pixasaas/webhook.php(58): mysqli->query('INSERT INTO pag...')
+#1 {main}
+  thrown in /home2/hercul27/public_html/pixasaas/webhook.php on line 58
+[09-Feb-2024 12:26:35 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'payment_id' in 'field list' in /home2/hercul27/public_html/pixasaas/webhook.php:58
+Stack trace:
+#0 /home2/hercul27/public_html/pixasaas/webhook.php(58): mysqli->query('INSERT INTO pag...')
+#1 {main}
+  thrown in /home2/hercul27/public_html/pixasaas/webhook.php on line 58
+[09-Feb-2024 12:26:36 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'payment_id' in 'field list' in /home2/hercul27/public_html/pixasaas/webhook.php:58
+Stack trace:
+#0 /home2/hercul27/public_html/pixasaas/webhook.php(58): mysqli->query('INSERT INTO pag...')
+#1 {main}
+  thrown in /home2/hercul27/public_html/pixasaas/webhook.php on line 58
+[09-Feb-2024 12:26:38 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'payment_id' in 'field list' in /home2/hercul27/public_html/pixasaas/webhook.php:58
+Stack trace:
+#0 /home2/hercul27/public_html/pixasaas/webhook.php(58): mysqli->query('INSERT INTO pag...')
+#1 {main}
+  thrown in /home2/hercul27/public_html/pixasaas/webhook.php on line 58
+[09-Feb-2024 23:28:13 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'payment_id' in 'field list' in /home2/hercul27/public_html/pixasaas/webhook.php:58
+Stack trace:
+#0 /home2/hercul27/public_html/pixasaas/webhook.php(58): mysqli->query('INSERT INTO pag...')
+#1 {main}
+  thrown in /home2/hercul27/public_html/pixasaas/webhook.php on line 58
+[09-Feb-2024 23:28:14 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'payment_id' in 'field list' in /home2/hercul27/public_html/pixasaas/webhook.php:58
+Stack trace:
+#0 /home2/hercul27/public_html/pixasaas/webhook.php(58): mysqli->query('INSERT INTO pag...')
+#1 {main}
+  thrown in /home2/hercul27/public_html/pixasaas/webhook.php on line 58
+[09-Feb-2024 23:28:15 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'payment_id' in 'field list' in /home2/hercul27/public_html/pixasaas/webhook.php:58
+Stack trace:
+#0 /home2/hercul27/public_html/pixasaas/webhook.php(58): mysqli->query('INSERT INTO pag...')
+#1 {main}
+  thrown in /home2/hercul27/public_html/pixasaas/webhook.php on line 58
+[09-Feb-2024 23:28:17 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'payment_id' in 'field list' in /home2/hercul27/public_html/pixasaas/webhook.php:58
+Stack trace:
+#0 /home2/hercul27/public_html/pixasaas/webhook.php(58): mysqli->query('INSERT INTO pag...')
+#1 {main}
+  thrown in /home2/hercul27/public_html/pixasaas/webhook.php on line 58
+[09-Feb-2024 23:28:18 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'payment_id' in 'field list' in /home2/hercul27/public_html/pixasaas/webhook.php:58
+Stack trace:
+#0 /home2/hercul27/public_html/pixasaas/webhook.php(58): mysqli->query('INSERT INTO pag...')
+#1 {main}
+  thrown in /home2/hercul27/public_html/pixasaas/webhook.php on line 58
+[09-Feb-2024 23:28:20 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'payment_id' in 'field list' in /home2/hercul27/public_html/pixasaas/webhook.php:58
+Stack trace:
+#0 /home2/hercul27/public_html/pixasaas/webhook.php(58): mysqli->query('INSERT INTO pag...')
+#1 {main}
+  thrown in /home2/hercul27/public_html/pixasaas/webhook.php on line 58
+[09-Feb-2024 23:28:21 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'payment_id' in 'field list' in /home2/hercul27/public_html/pixasaas/webhook.php:58
+Stack trace:
+#0 /home2/hercul27/public_html/pixasaas/webhook.php(58): mysqli->query('INSERT INTO pag...')
+#1 {main}
+  thrown in /home2/hercul27/public_html/pixasaas/webhook.php on line 58
+[09-Feb-2024 23:28:23 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'payment_id' in 'field list' in /home2/hercul27/public_html/pixasaas/webhook.php:58
+Stack trace:
+#0 /home2/hercul27/public_html/pixasaas/webhook.php(58): mysqli->query('INSERT INTO pag...')
+#1 {main}
+  thrown in /home2/hercul27/public_html/pixasaas/webhook.php on line 58
+[09-Feb-2024 23:28:24 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'payment_id' in 'field list' in /home2/hercul27/public_html/pixasaas/webhook.php:58
+Stack trace:
+#0 /home2/hercul27/public_html/pixasaas/webhook.php(58): mysqli->query('INSERT INTO pag...')
+#1 {main}
+  thrown in /home2/hercul27/public_html/pixasaas/webhook.php on line 58
+[09-Feb-2024 23:28:26 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'payment_id' in 'field list' in /home2/hercul27/public_html/pixasaas/webhook.php:58
+Stack trace:
+#0 /home2/hercul27/public_html/pixasaas/webhook.php(58): mysqli->query('INSERT INTO pag...')
+#1 {main}
+  thrown in /home2/hercul27/public_html/pixasaas/webhook.php on line 58
+[09-Feb-2024 23:28:27 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'payment_id' in 'field list' in /home2/hercul27/public_html/pixasaas/webhook.php:58
+Stack trace:
+#0 /home2/hercul27/public_html/pixasaas/webhook.php(58): mysqli->query('INSERT INTO pag...')
+#1 {main}
+  thrown in /home2/hercul27/public_html/pixasaas/webhook.php on line 58
+[09-Feb-2024 23:28:29 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'payment_id' in 'field list' in /home2/hercul27/public_html/pixasaas/webhook.php:58
+Stack trace:
+#0 /home2/hercul27/public_html/pixasaas/webhook.php(58): mysqli->query('INSERT INTO pag...')
+#1 {main}
+  thrown in /home2/hercul27/public_html/pixasaas/webhook.php on line 58
+[09-Feb-2024 23:28:30 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'payment_id' in 'field list' in /home2/hercul27/public_html/pixasaas/webhook.php:58
+Stack trace:
+#0 /home2/hercul27/public_html/pixasaas/webhook.php(58): mysqli->query('INSERT INTO pag...')
+#1 {main}
+  thrown in /home2/hercul27/public_html/pixasaas/webhook.php on line 58
+[09-Feb-2024 23:28:32 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'payment_id' in 'field list' in /home2/hercul27/public_html/pixasaas/webhook.php:58
+Stack trace:
+#0 /home2/hercul27/public_html/pixasaas/webhook.php(58): mysqli->query('INSERT INTO pag...')
+#1 {main}
+  thrown in /home2/hercul27/public_html/pixasaas/webhook.php on line 58
+[10-Feb-2024 08:47:19 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'payment_id' in 'field list' in /home2/hercul27/public_html/pixasaas/webhook.php:58
+Stack trace:
+#0 /home2/hercul27/public_html/pixasaas/webhook.php(58): mysqli->query('INSERT INTO pag...')
+#1 {main}
+  thrown in /home2/hercul27/public_html/pixasaas/webhook.php on line 58
+[10-Feb-2024 08:47:19 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'payment_id' in 'field list' in /home2/hercul27/public_html/pixasaas/webhook.php:58
+Stack trace:
+#0 /home2/hercul27/public_html/pixasaas/webhook.php(58): mysqli->query('INSERT INTO pag...')
+#1 {main}
+  thrown in /home2/hercul27/public_html/pixasaas/webhook.php on line 58
+[10-Feb-2024 08:47:21 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'payment_id' in 'field list' in /home2/hercul27/public_html/pixasaas/webhook.php:58
+Stack trace:
+#0 /home2/hercul27/public_html/pixasaas/webhook.php(58): mysqli->query('INSERT INTO pag...')
+#1 {main}
+  thrown in /home2/hercul27/public_html/pixasaas/webhook.php on line 58
+[10-Feb-2024 08:47:22 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'payment_id' in 'field list' in /home2/hercul27/public_html/pixasaas/webhook.php:58
+Stack trace:
+#0 /home2/hercul27/public_html/pixasaas/webhook.php(58): mysqli->query('INSERT INTO pag...')
+#1 {main}
+  thrown in /home2/hercul27/public_html/pixasaas/webhook.php on line 58
+[10-Feb-2024 08:47:24 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'payment_id' in 'field list' in /home2/hercul27/public_html/pixasaas/webhook.php:58
+Stack trace:
+#0 /home2/hercul27/public_html/pixasaas/webhook.php(58): mysqli->query('INSERT INTO pag...')
+#1 {main}
+  thrown in /home2/hercul27/public_html/pixasaas/webhook.php on line 58
+[10-Feb-2024 08:47:25 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'payment_id' in 'field list' in /home2/hercul27/public_html/pixasaas/webhook.php:58
+Stack trace:
+#0 /home2/hercul27/public_html/pixasaas/webhook.php(58): mysqli->query('INSERT INTO pag...')
+#1 {main}
+  thrown in /home2/hercul27/public_html/pixasaas/webhook.php on line 58
+[10-Feb-2024 08:47:27 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'payment_id' in 'field list' in /home2/hercul27/public_html/pixasaas/webhook.php:58
+Stack trace:
+#0 /home2/hercul27/public_html/pixasaas/webhook.php(58): mysqli->query('INSERT INTO pag...')
+#1 {main}
+  thrown in /home2/hercul27/public_html/pixasaas/webhook.php on line 58
+[10-Feb-2024 08:47:28 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'payment_id' in 'field list' in /home2/hercul27/public_html/pixasaas/webhook.php:58
+Stack trace:
+#0 /home2/hercul27/public_html/pixasaas/webhook.php(58): mysqli->query('INSERT INTO pag...')
+#1 {main}
+  thrown in /home2/hercul27/public_html/pixasaas/webhook.php on line 58
+[10-Feb-2024 08:47:30 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'payment_id' in 'field list' in /home2/hercul27/public_html/pixasaas/webhook.php:58
+Stack trace:
+#0 /home2/hercul27/public_html/pixasaas/webhook.php(58): mysqli->query('INSERT INTO pag...')
+#1 {main}
+  thrown in /home2/hercul27/public_html/pixasaas/webhook.php on line 58
+[10-Feb-2024 08:47:31 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'payment_id' in 'field list' in /home2/hercul27/public_html/pixasaas/webhook.php:58
+Stack trace:
+#0 /home2/hercul27/public_html/pixasaas/webhook.php(58): mysqli->query('INSERT INTO pag...')
+#1 {main}
+  thrown in /home2/hercul27/public_html/pixasaas/webhook.php on line 58
+[10-Feb-2024 08:47:33 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'payment_id' in 'field list' in /home2/hercul27/public_html/pixasaas/webhook.php:58
+Stack trace:
+#0 /home2/hercul27/public_html/pixasaas/webhook.php(58): mysqli->query('INSERT INTO pag...')
+#1 {main}
+  thrown in /home2/hercul27/public_html/pixasaas/webhook.php on line 58
+[10-Feb-2024 08:47:34 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'payment_id' in 'field list' in /home2/hercul27/public_html/pixasaas/webhook.php:58
+Stack trace:
+#0 /home2/hercul27/public_html/pixasaas/webhook.php(58): mysqli->query('INSERT INTO pag...')
+#1 {main}
+  thrown in /home2/hercul27/public_html/pixasaas/webhook.php on line 58
+[10-Feb-2024 08:47:36 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'payment_id' in 'field list' in /home2/hercul27/public_html/pixasaas/webhook.php:58
+Stack trace:
+#0 /home2/hercul27/public_html/pixasaas/webhook.php(58): mysqli->query('INSERT INTO pag...')
+#1 {main}
+  thrown in /home2/hercul27/public_html/pixasaas/webhook.php on line 58
+[10-Feb-2024 08:47:37 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'payment_id' in 'field list' in /home2/hercul27/public_html/pixasaas/webhook.php:58
+Stack trace:
+#0 /home2/hercul27/public_html/pixasaas/webhook.php(58): mysqli->query('INSERT INTO pag...')
+#1 {main}
+  thrown in /home2/hercul27/public_html/pixasaas/webhook.php on line 58
+[10-Feb-2024 08:47:39 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'payment_id' in 'field list' in /home2/hercul27/public_html/pixasaas/webhook.php:58
+Stack trace:
+#0 /home2/hercul27/public_html/pixasaas/webhook.php(58): mysqli->query('INSERT INTO pag...')
+#1 {main}
+  thrown in /home2/hercul27/public_html/pixasaas/webhook.php on line 58
+[10-Feb-2024 08:50:39 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'payment_id' in 'field list' in /home2/hercul27/public_html/pixasaas/webhook.php:58
+Stack trace:
+#0 /home2/hercul27/public_html/pixasaas/webhook.php(58): mysqli->query('INSERT INTO pag...')
+#1 {main}
+  thrown in /home2/hercul27/public_html/pixasaas/webhook.php on line 58
+[10-Feb-2024 08:50:40 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'payment_id' in 'field list' in /home2/hercul27/public_html/pixasaas/webhook.php:58
+Stack trace:
+#0 /home2/hercul27/public_html/pixasaas/webhook.php(58): mysqli->query('INSERT INTO pag...')
+#1 {main}
+  thrown in /home2/hercul27/public_html/pixasaas/webhook.php on line 58
+[10-Feb-2024 08:50:42 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'payment_id' in 'field list' in /home2/hercul27/public_html/pixasaas/webhook.php:58
+Stack trace:
+#0 /home2/hercul27/public_html/pixasaas/webhook.php(58): mysqli->query('INSERT INTO pag...')
+#1 {main}
+  thrown in /home2/hercul27/public_html/pixasaas/webhook.php on line 58
+[10-Feb-2024 08:50:43 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'payment_id' in 'field list' in /home2/hercul27/public_html/pixasaas/webhook.php:58
+Stack trace:
+#0 /home2/hercul27/public_html/pixasaas/webhook.php(58): mysqli->query('INSERT INTO pag...')
+#1 {main}
+  thrown in /home2/hercul27/public_html/pixasaas/webhook.php on line 58
+[10-Feb-2024 08:50:45 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'payment_id' in 'field list' in /home2/hercul27/public_html/pixasaas/webhook.php:58
+Stack trace:
+#0 /home2/hercul27/public_html/pixasaas/webhook.php(58): mysqli->query('INSERT INTO pag...')
+#1 {main}
+  thrown in /home2/hercul27/public_html/pixasaas/webhook.php on line 58
+[10-Feb-2024 08:50:46 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'payment_id' in 'field list' in /home2/hercul27/public_html/pixasaas/webhook.php:58
+Stack trace:
+#0 /home2/hercul27/public_html/pixasaas/webhook.php(58): mysqli->query('INSERT INTO pag...')
+#1 {main}
+  thrown in /home2/hercul27/public_html/pixasaas/webhook.php on line 58
+[10-Feb-2024 08:50:48 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'payment_id' in 'field list' in /home2/hercul27/public_html/pixasaas/webhook.php:58
+Stack trace:
+#0 /home2/hercul27/public_html/pixasaas/webhook.php(58): mysqli->query('INSERT INTO pag...')
+#1 {main}
+  thrown in /home2/hercul27/public_html/pixasaas/webhook.php on line 58
+[10-Feb-2024 08:50:49 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'payment_id' in 'field list' in /home2/hercul27/public_html/pixasaas/webhook.php:58
+Stack trace:
+#0 /home2/hercul27/public_html/pixasaas/webhook.php(58): mysqli->query('INSERT INTO pag...')
+#1 {main}
+  thrown in /home2/hercul27/public_html/pixasaas/webhook.php on line 58
+[10-Feb-2024 08:50:51 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'payment_id' in 'field list' in /home2/hercul27/public_html/pixasaas/webhook.php:58
+Stack trace:
+#0 /home2/hercul27/public_html/pixasaas/webhook.php(58): mysqli->query('INSERT INTO pag...')
+#1 {main}
+  thrown in /home2/hercul27/public_html/pixasaas/webhook.php on line 58
+[10-Feb-2024 08:50:52 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'payment_id' in 'field list' in /home2/hercul27/public_html/pixasaas/webhook.php:58
+Stack trace:
+#0 /home2/hercul27/public_html/pixasaas/webhook.php(58): mysqli->query('INSERT INTO pag...')
+#1 {main}
+  thrown in /home2/hercul27/public_html/pixasaas/webhook.php on line 58
+[10-Feb-2024 08:50:54 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'payment_id' in 'field list' in /home2/hercul27/public_html/pixasaas/webhook.php:58
+Stack trace:
+#0 /home2/hercul27/public_html/pixasaas/webhook.php(58): mysqli->query('INSERT INTO pag...')
+#1 {main}
+  thrown in /home2/hercul27/public_html/pixasaas/webhook.php on line 58
+[10-Feb-2024 08:50:55 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'payment_id' in 'field list' in /home2/hercul27/public_html/pixasaas/webhook.php:58
+Stack trace:
+#0 /home2/hercul27/public_html/pixasaas/webhook.php(58): mysqli->query('INSERT INTO pag...')
+#1 {main}
+  thrown in /home2/hercul27/public_html/pixasaas/webhook.php on line 58
+[10-Feb-2024 08:50:57 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'payment_id' in 'field list' in /home2/hercul27/public_html/pixasaas/webhook.php:58
+Stack trace:
+#0 /home2/hercul27/public_html/pixasaas/webhook.php(58): mysqli->query('INSERT INTO pag...')
+#1 {main}
+  thrown in /home2/hercul27/public_html/pixasaas/webhook.php on line 58
+[10-Feb-2024 08:50:58 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'payment_id' in 'field list' in /home2/hercul27/public_html/pixasaas/webhook.php:58
+Stack trace:
+#0 /home2/hercul27/public_html/pixasaas/webhook.php(58): mysqli->query('INSERT INTO pag...')
+#1 {main}
+  thrown in /home2/hercul27/public_html/pixasaas/webhook.php on line 58
+[10-Feb-2024 08:51:00 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'payment_id' in 'field list' in /home2/hercul27/public_html/pixasaas/webhook.php:58
+Stack trace:
+#0 /home2/hercul27/public_html/pixasaas/webhook.php(58): mysqli->query('INSERT INTO pag...')
+#1 {main}
+  thrown in /home2/hercul27/public_html/pixasaas/webhook.php on line 58
+[10-Feb-2024 08:59:08 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'payment_id' in 'field list' in /home2/hercul27/public_html/pixasaas/webhook.php:58
+Stack trace:
+#0 /home2/hercul27/public_html/pixasaas/webhook.php(58): mysqli->query('INSERT INTO pag...')
+#1 {main}
+  thrown in /home2/hercul27/public_html/pixasaas/webhook.php on line 58
+[10-Feb-2024 08:59:09 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'payment_id' in 'field list' in /home2/hercul27/public_html/pixasaas/webhook.php:58
+Stack trace:
+#0 /home2/hercul27/public_html/pixasaas/webhook.php(58): mysqli->query('INSERT INTO pag...')
+#1 {main}
+  thrown in /home2/hercul27/public_html/pixasaas/webhook.php on line 58
+[10-Feb-2024 08:59:10 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'payment_id' in 'field list' in /home2/hercul27/public_html/pixasaas/webhook.php:58
+Stack trace:
+#0 /home2/hercul27/public_html/pixasaas/webhook.php(58): mysqli->query('INSERT INTO pag...')
+#1 {main}
+  thrown in /home2/hercul27/public_html/pixasaas/webhook.php on line 58
+[10-Feb-2024 08:59:12 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'payment_id' in 'field list' in /home2/hercul27/public_html/pixasaas/webhook.php:58
+Stack trace:
+#0 /home2/hercul27/public_html/pixasaas/webhook.php(58): mysqli->query('INSERT INTO pag...')
+#1 {main}
+  thrown in /home2/hercul27/public_html/pixasaas/webhook.php on line 58
+[10-Feb-2024 08:59:13 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'payment_id' in 'field list' in /home2/hercul27/public_html/pixasaas/webhook.php:58
+Stack trace:
+#0 /home2/hercul27/public_html/pixasaas/webhook.php(58): mysqli->query('INSERT INTO pag...')
+#1 {main}
+  thrown in /home2/hercul27/public_html/pixasaas/webhook.php on line 58
+[10-Feb-2024 08:59:15 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'payment_id' in 'field list' in /home2/hercul27/public_html/pixasaas/webhook.php:58
+Stack trace:
+#0 /home2/hercul27/public_html/pixasaas/webhook.php(58): mysqli->query('INSERT INTO pag...')
+#1 {main}
+  thrown in /home2/hercul27/public_html/pixasaas/webhook.php on line 58
+[10-Feb-2024 08:59:16 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'payment_id' in 'field list' in /home2/hercul27/public_html/pixasaas/webhook.php:58
+Stack trace:
+#0 /home2/hercul27/public_html/pixasaas/webhook.php(58): mysqli->query('INSERT INTO pag...')
+#1 {main}
+  thrown in /home2/hercul27/public_html/pixasaas/webhook.php on line 58
+[10-Feb-2024 08:59:18 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'payment_id' in 'field list' in /home2/hercul27/public_html/pixasaas/webhook.php:58
+Stack trace:
+#0 /home2/hercul27/public_html/pixasaas/webhook.php(58): mysqli->query('INSERT INTO pag...')
+#1 {main}
+  thrown in /home2/hercul27/public_html/pixasaas/webhook.php on line 58
+[10-Feb-2024 08:59:19 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'payment_id' in 'field list' in /home2/hercul27/public_html/pixasaas/webhook.php:58
+Stack trace:
+#0 /home2/hercul27/public_html/pixasaas/webhook.php(58): mysqli->query('INSERT INTO pag...')
+#1 {main}
+  thrown in /home2/hercul27/public_html/pixasaas/webhook.php on line 58
+[10-Feb-2024 08:59:21 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'payment_id' in 'field list' in /home2/hercul27/public_html/pixasaas/webhook.php:58
+Stack trace:
+#0 /home2/hercul27/public_html/pixasaas/webhook.php(58): mysqli->query('INSERT INTO pag...')
+#1 {main}
+  thrown in /home2/hercul27/public_html/pixasaas/webhook.php on line 58
+[10-Feb-2024 08:59:22 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'payment_id' in 'field list' in /home2/hercul27/public_html/pixasaas/webhook.php:58
+Stack trace:
+#0 /home2/hercul27/public_html/pixasaas/webhook.php(58): mysqli->query('INSERT INTO pag...')
+#1 {main}
+  thrown in /home2/hercul27/public_html/pixasaas/webhook.php on line 58
+[10-Feb-2024 08:59:24 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'payment_id' in 'field list' in /home2/hercul27/public_html/pixasaas/webhook.php:58
+Stack trace:
+#0 /home2/hercul27/public_html/pixasaas/webhook.php(58): mysqli->query('INSERT INTO pag...')
+#1 {main}
+  thrown in /home2/hercul27/public_html/pixasaas/webhook.php on line 58
+[10-Feb-2024 08:59:25 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'payment_id' in 'field list' in /home2/hercul27/public_html/pixasaas/webhook.php:58
+Stack trace:
+#0 /home2/hercul27/public_html/pixasaas/webhook.php(58): mysqli->query('INSERT INTO pag...')
+#1 {main}
+  thrown in /home2/hercul27/public_html/pixasaas/webhook.php on line 58
+[10-Feb-2024 08:59:27 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'payment_id' in 'field list' in /home2/hercul27/public_html/pixasaas/webhook.php:58
+Stack trace:
+#0 /home2/hercul27/public_html/pixasaas/webhook.php(58): mysqli->query('INSERT INTO pag...')
+#1 {main}
+  thrown in /home2/hercul27/public_html/pixasaas/webhook.php on line 58
+[10-Feb-2024 08:59:28 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'payment_id' in 'field list' in /home2/hercul27/public_html/pixasaas/webhook.php:58
+Stack trace:
+#0 /home2/hercul27/public_html/pixasaas/webhook.php(58): mysqli->query('INSERT INTO pag...')
+#1 {main}
+  thrown in /home2/hercul27/public_html/pixasaas/webhook.php on line 58
+[10-Feb-2024 09:01:28 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'payment_id' in 'field list' in /home2/hercul27/public_html/pixasaas/webhook.php:58
+Stack trace:
+#0 /home2/hercul27/public_html/pixasaas/webhook.php(58): mysqli->query('INSERT INTO pag...')
+#1 {main}
+  thrown in /home2/hercul27/public_html/pixasaas/webhook.php on line 58
+[10-Feb-2024 09:01:30 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'payment_id' in 'field list' in /home2/hercul27/public_html/pixasaas/webhook.php:58
+Stack trace:
+#0 /home2/hercul27/public_html/pixasaas/webhook.php(58): mysqli->query('INSERT INTO pag...')
+#1 {main}
+  thrown in /home2/hercul27/public_html/pixasaas/webhook.php on line 58
+[10-Feb-2024 09:01:31 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'payment_id' in 'field list' in /home2/hercul27/public_html/pixasaas/webhook.php:58
+Stack trace:
+#0 /home2/hercul27/public_html/pixasaas/webhook.php(58): mysqli->query('INSERT INTO pag...')
+#1 {main}
+  thrown in /home2/hercul27/public_html/pixasaas/webhook.php on line 58
+[10-Feb-2024 09:01:33 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'payment_id' in 'field list' in /home2/hercul27/public_html/pixasaas/webhook.php:58
+Stack trace:
+#0 /home2/hercul27/public_html/pixasaas/webhook.php(58): mysqli->query('INSERT INTO pag...')
+#1 {main}
+  thrown in /home2/hercul27/public_html/pixasaas/webhook.php on line 58
+[10-Feb-2024 09:01:34 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'payment_id' in 'field list' in /home2/hercul27/public_html/pixasaas/webhook.php:58
+Stack trace:
+#0 /home2/hercul27/public_html/pixasaas/webhook.php(58): mysqli->query('INSERT INTO pag...')
+#1 {main}
+  thrown in /home2/hercul27/public_html/pixasaas/webhook.php on line 58
+[10-Feb-2024 09:01:36 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'payment_id' in 'field list' in /home2/hercul27/public_html/pixasaas/webhook.php:58
+Stack trace:
+#0 /home2/hercul27/public_html/pixasaas/webhook.php(58): mysqli->query('INSERT INTO pag...')
+#1 {main}
+  thrown in /home2/hercul27/public_html/pixasaas/webhook.php on line 58
+[10-Feb-2024 09:01:37 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'payment_id' in 'field list' in /home2/hercul27/public_html/pixasaas/webhook.php:58
+Stack trace:
+#0 /home2/hercul27/public_html/pixasaas/webhook.php(58): mysqli->query('INSERT INTO pag...')
+#1 {main}
+  thrown in /home2/hercul27/public_html/pixasaas/webhook.php on line 58
+[10-Feb-2024 09:01:39 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'payment_id' in 'field list' in /home2/hercul27/public_html/pixasaas/webhook.php:58
+Stack trace:
+#0 /home2/hercul27/public_html/pixasaas/webhook.php(58): mysqli->query('INSERT INTO pag...')
+#1 {main}
+  thrown in /home2/hercul27/public_html/pixasaas/webhook.php on line 58
+[10-Feb-2024 09:01:40 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'payment_id' in 'field list' in /home2/hercul27/public_html/pixasaas/webhook.php:58
+Stack trace:
+#0 /home2/hercul27/public_html/pixasaas/webhook.php(58): mysqli->query('INSERT INTO pag...')
+#1 {main}
+  thrown in /home2/hercul27/public_html/pixasaas/webhook.php on line 58
+[10-Feb-2024 09:01:42 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'payment_id' in 'field list' in /home2/hercul27/public_html/pixasaas/webhook.php:58
+Stack trace:
+#0 /home2/hercul27/public_html/pixasaas/webhook.php(58): mysqli->query('INSERT INTO pag...')
+#1 {main}
+  thrown in /home2/hercul27/public_html/pixasaas/webhook.php on line 58
+[10-Feb-2024 09:01:43 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'payment_id' in 'field list' in /home2/hercul27/public_html/pixasaas/webhook.php:58
+Stack trace:
+#0 /home2/hercul27/public_html/pixasaas/webhook.php(58): mysqli->query('INSERT INTO pag...')
+#1 {main}
+  thrown in /home2/hercul27/public_html/pixasaas/webhook.php on line 58
+[10-Feb-2024 09:01:45 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'payment_id' in 'field list' in /home2/hercul27/public_html/pixasaas/webhook.php:58
+Stack trace:
+#0 /home2/hercul27/public_html/pixasaas/webhook.php(58): mysqli->query('INSERT INTO pag...')
+#1 {main}
+  thrown in /home2/hercul27/public_html/pixasaas/webhook.php on line 58
+[10-Feb-2024 09:01:46 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'payment_id' in 'field list' in /home2/hercul27/public_html/pixasaas/webhook.php:58
+Stack trace:
+#0 /home2/hercul27/public_html/pixasaas/webhook.php(58): mysqli->query('INSERT INTO pag...')
+#1 {main}
+  thrown in /home2/hercul27/public_html/pixasaas/webhook.php on line 58
+[10-Feb-2024 09:01:48 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'payment_id' in 'field list' in /home2/hercul27/public_html/pixasaas/webhook.php:58
+Stack trace:
+#0 /home2/hercul27/public_html/pixasaas/webhook.php(58): mysqli->query('INSERT INTO pag...')
+#1 {main}
+  thrown in /home2/hercul27/public_html/pixasaas/webhook.php on line 58
+[10-Feb-2024 09:01:49 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'payment_id' in 'field list' in /home2/hercul27/public_html/pixasaas/webhook.php:58
+Stack trace:
+#0 /home2/hercul27/public_html/pixasaas/webhook.php(58): mysqli->query('INSERT INTO pag...')
+#1 {main}
+  thrown in /home2/hercul27/public_html/pixasaas/webhook.php on line 58
+[10-Feb-2024 09:06:22 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'payment_id' in 'field list' in /home2/hercul27/public_html/pixasaas/webhook.php:58
+Stack trace:
+#0 /home2/hercul27/public_html/pixasaas/webhook.php(58): mysqli->query('INSERT INTO pag...')
+#1 {main}
+  thrown in /home2/hercul27/public_html/pixasaas/webhook.php on line 58
+[10-Feb-2024 09:06:24 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'payment_id' in 'field list' in /home2/hercul27/public_html/pixasaas/webhook.php:58
+Stack trace:
+#0 /home2/hercul27/public_html/pixasaas/webhook.php(58): mysqli->query('INSERT INTO pag...')
+#1 {main}
+  thrown in /home2/hercul27/public_html/pixasaas/webhook.php on line 58
+[10-Feb-2024 09:06:25 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'payment_id' in 'field list' in /home2/hercul27/public_html/pixasaas/webhook.php:58
+Stack trace:
+#0 /home2/hercul27/public_html/pixasaas/webhook.php(58): mysqli->query('INSERT INTO pag...')
+#1 {main}
+  thrown in /home2/hercul27/public_html/pixasaas/webhook.php on line 58
+[10-Feb-2024 09:06:27 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'payment_id' in 'field list' in /home2/hercul27/public_html/pixasaas/webhook.php:58
+Stack trace:
+#0 /home2/hercul27/public_html/pixasaas/webhook.php(58): mysqli->query('INSERT INTO pag...')
+#1 {main}
+  thrown in /home2/hercul27/public_html/pixasaas/webhook.php on line 58
+[10-Feb-2024 09:06:28 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'payment_id' in 'field list' in /home2/hercul27/public_html/pixasaas/webhook.php:58
+Stack trace:
+#0 /home2/hercul27/public_html/pixasaas/webhook.php(58): mysqli->query('INSERT INTO pag...')
+#1 {main}
+  thrown in /home2/hercul27/public_html/pixasaas/webhook.php on line 58
+[10-Feb-2024 09:06:30 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'payment_id' in 'field list' in /home2/hercul27/public_html/pixasaas/webhook.php:58
+Stack trace:
+#0 /home2/hercul27/public_html/pixasaas/webhook.php(58): mysqli->query('INSERT INTO pag...')
+#1 {main}
+  thrown in /home2/hercul27/public_html/pixasaas/webhook.php on line 58
+[10-Feb-2024 09:06:31 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'payment_id' in 'field list' in /home2/hercul27/public_html/pixasaas/webhook.php:58
+Stack trace:
+#0 /home2/hercul27/public_html/pixasaas/webhook.php(58): mysqli->query('INSERT INTO pag...')
+#1 {main}
+  thrown in /home2/hercul27/public_html/pixasaas/webhook.php on line 58
+[10-Feb-2024 09:06:33 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'payment_id' in 'field list' in /home2/hercul27/public_html/pixasaas/webhook.php:58
+Stack trace:
+#0 /home2/hercul27/public_html/pixasaas/webhook.php(58): mysqli->query('INSERT INTO pag...')
+#1 {main}
+  thrown in /home2/hercul27/public_html/pixasaas/webhook.php on line 58
+[10-Feb-2024 09:06:34 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'payment_id' in 'field list' in /home2/hercul27/public_html/pixasaas/webhook.php:58
+Stack trace:
+#0 /home2/hercul27/public_html/pixasaas/webhook.php(58): mysqli->query('INSERT INTO pag...')
+#1 {main}
+  thrown in /home2/hercul27/public_html/pixasaas/webhook.php on line 58
+[10-Feb-2024 09:06:36 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'payment_id' in 'field list' in /home2/hercul27/public_html/pixasaas/webhook.php:58
+Stack trace:
+#0 /home2/hercul27/public_html/pixasaas/webhook.php(58): mysqli->query('INSERT INTO pag...')
+#1 {main}
+  thrown in /home2/hercul27/public_html/pixasaas/webhook.php on line 58
+[10-Feb-2024 09:06:37 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'payment_id' in 'field list' in /home2/hercul27/public_html/pixasaas/webhook.php:58
+Stack trace:
+#0 /home2/hercul27/public_html/pixasaas/webhook.php(58): mysqli->query('INSERT INTO pag...')
+#1 {main}
+  thrown in /home2/hercul27/public_html/pixasaas/webhook.php on line 58
+[10-Feb-2024 09:06:39 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'payment_id' in 'field list' in /home2/hercul27/public_html/pixasaas/webhook.php:58
+Stack trace:
+#0 /home2/hercul27/public_html/pixasaas/webhook.php(58): mysqli->query('INSERT INTO pag...')
+#1 {main}
+  thrown in /home2/hercul27/public_html/pixasaas/webhook.php on line 58
+[10-Feb-2024 09:06:40 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'payment_id' in 'field list' in /home2/hercul27/public_html/pixasaas/webhook.php:58
+Stack trace:
+#0 /home2/hercul27/public_html/pixasaas/webhook.php(58): mysqli->query('INSERT INTO pag...')
+#1 {main}
+  thrown in /home2/hercul27/public_html/pixasaas/webhook.php on line 58
+[10-Feb-2024 09:06:42 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'payment_id' in 'field list' in /home2/hercul27/public_html/pixasaas/webhook.php:58
+Stack trace:
+#0 /home2/hercul27/public_html/pixasaas/webhook.php(58): mysqli->query('INSERT INTO pag...')
+#1 {main}
+  thrown in /home2/hercul27/public_html/pixasaas/webhook.php on line 58
+[10-Feb-2024 09:06:43 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'payment_id' in 'field list' in /home2/hercul27/public_html/pixasaas/webhook.php:58
+Stack trace:
+#0 /home2/hercul27/public_html/pixasaas/webhook.php(58): mysqli->query('INSERT INTO pag...')
+#1 {main}
+  thrown in /home2/hercul27/public_html/pixasaas/webhook.php on line 58
+[10-Feb-2024 09:18:53 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'payment_id' in 'field list' in /home2/hercul27/public_html/pixasaas/webhook.php:58
+Stack trace:
+#0 /home2/hercul27/public_html/pixasaas/webhook.php(58): mysqli->query('INSERT INTO pag...')
+#1 {main}
+  thrown in /home2/hercul27/public_html/pixasaas/webhook.php on line 58
+[10-Feb-2024 09:18:54 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'payment_id' in 'field list' in /home2/hercul27/public_html/pixasaas/webhook.php:58
+Stack trace:
+#0 /home2/hercul27/public_html/pixasaas/webhook.php(58): mysqli->query('INSERT INTO pag...')
+#1 {main}
+  thrown in /home2/hercul27/public_html/pixasaas/webhook.php on line 58
+[10-Feb-2024 09:18:56 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'payment_id' in 'field list' in /home2/hercul27/public_html/pixasaas/webhook.php:58
+Stack trace:
+#0 /home2/hercul27/public_html/pixasaas/webhook.php(58): mysqli->query('INSERT INTO pag...')
+#1 {main}
+  thrown in /home2/hercul27/public_html/pixasaas/webhook.php on line 58
+[10-Feb-2024 09:18:57 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'payment_id' in 'field list' in /home2/hercul27/public_html/pixasaas/webhook.php:58
+Stack trace:
+#0 /home2/hercul27/public_html/pixasaas/webhook.php(58): mysqli->query('INSERT INTO pag...')
+#1 {main}
+  thrown in /home2/hercul27/public_html/pixasaas/webhook.php on line 58
+[10-Feb-2024 09:18:59 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'payment_id' in 'field list' in /home2/hercul27/public_html/pixasaas/webhook.php:58
+Stack trace:
+#0 /home2/hercul27/public_html/pixasaas/webhook.php(58): mysqli->query('INSERT INTO pag...')
+#1 {main}
+  thrown in /home2/hercul27/public_html/pixasaas/webhook.php on line 58
+[10-Feb-2024 09:19:00 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'payment_id' in 'field list' in /home2/hercul27/public_html/pixasaas/webhook.php:58
+Stack trace:
+#0 /home2/hercul27/public_html/pixasaas/webhook.php(58): mysqli->query('INSERT INTO pag...')
+#1 {main}
+  thrown in /home2/hercul27/public_html/pixasaas/webhook.php on line 58
+[10-Feb-2024 09:19:02 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'payment_id' in 'field list' in /home2/hercul27/public_html/pixasaas/webhook.php:58
+Stack trace:
+#0 /home2/hercul27/public_html/pixasaas/webhook.php(58): mysqli->query('INSERT INTO pag...')
+#1 {main}
+  thrown in /home2/hercul27/public_html/pixasaas/webhook.php on line 58
+[10-Feb-2024 09:19:03 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'payment_id' in 'field list' in /home2/hercul27/public_html/pixasaas/webhook.php:58
+Stack trace:
+#0 /home2/hercul27/public_html/pixasaas/webhook.php(58): mysqli->query('INSERT INTO pag...')
+#1 {main}
+  thrown in /home2/hercul27/public_html/pixasaas/webhook.php on line 58
+[10-Feb-2024 09:19:05 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'payment_id' in 'field list' in /home2/hercul27/public_html/pixasaas/webhook.php:58
+Stack trace:
+#0 /home2/hercul27/public_html/pixasaas/webhook.php(58): mysqli->query('INSERT INTO pag...')
+#1 {main}
+  thrown in /home2/hercul27/public_html/pixasaas/webhook.php on line 58
+[10-Feb-2024 09:19:06 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'payment_id' in 'field list' in /home2/hercul27/public_html/pixasaas/webhook.php:58
+Stack trace:
+#0 /home2/hercul27/public_html/pixasaas/webhook.php(58): mysqli->query('INSERT INTO pag...')
+#1 {main}
+  thrown in /home2/hercul27/public_html/pixasaas/webhook.php on line 58
+[10-Feb-2024 09:19:08 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'payment_id' in 'field list' in /home2/hercul27/public_html/pixasaas/webhook.php:58
+Stack trace:
+#0 /home2/hercul27/public_html/pixasaas/webhook.php(58): mysqli->query('INSERT INTO pag...')
+#1 {main}
+  thrown in /home2/hercul27/public_html/pixasaas/webhook.php on line 58
+[10-Feb-2024 09:19:09 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'payment_id' in 'field list' in /home2/hercul27/public_html/pixasaas/webhook.php:58
+Stack trace:
+#0 /home2/hercul27/public_html/pixasaas/webhook.php(58): mysqli->query('INSERT INTO pag...')
+#1 {main}
+  thrown in /home2/hercul27/public_html/pixasaas/webhook.php on line 58
+[10-Feb-2024 09:19:11 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'payment_id' in 'field list' in /home2/hercul27/public_html/pixasaas/webhook.php:58
+Stack trace:
+#0 /home2/hercul27/public_html/pixasaas/webhook.php(58): mysqli->query('INSERT INTO pag...')
+#1 {main}
+  thrown in /home2/hercul27/public_html/pixasaas/webhook.php on line 58
+[10-Feb-2024 09:19:12 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'payment_id' in 'field list' in /home2/hercul27/public_html/pixasaas/webhook.php:58
+Stack trace:
+#0 /home2/hercul27/public_html/pixasaas/webhook.php(58): mysqli->query('INSERT INTO pag...')
+#1 {main}
+  thrown in /home2/hercul27/public_html/pixasaas/webhook.php on line 58
+[10-Feb-2024 09:19:14 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'payment_id' in 'field list' in /home2/hercul27/public_html/pixasaas/webhook.php:58
+Stack trace:
+#0 /home2/hercul27/public_html/pixasaas/webhook.php(58): mysqli->query('INSERT INTO pag...')
+#1 {main}
+  thrown in /home2/hercul27/public_html/pixasaas/webhook.php on line 58
+[10-Feb-2024 09:22:32 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'payment_id' in 'field list' in /home2/hercul27/public_html/pixasaas/webhook.php:58
+Stack trace:
+#0 /home2/hercul27/public_html/pixasaas/webhook.php(58): mysqli->query('INSERT INTO pag...')
+#1 {main}
+  thrown in /home2/hercul27/public_html/pixasaas/webhook.php on line 58
+[10-Feb-2024 09:22:33 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'payment_id' in 'field list' in /home2/hercul27/public_html/pixasaas/webhook.php:58
+Stack trace:
+#0 /home2/hercul27/public_html/pixasaas/webhook.php(58): mysqli->query('INSERT INTO pag...')
+#1 {main}
+  thrown in /home2/hercul27/public_html/pixasaas/webhook.php on line 58
+[10-Feb-2024 09:22:35 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'payment_id' in 'field list' in /home2/hercul27/public_html/pixasaas/webhook.php:58
+Stack trace:
+#0 /home2/hercul27/public_html/pixasaas/webhook.php(58): mysqli->query('INSERT INTO pag...')
+#1 {main}
+  thrown in /home2/hercul27/public_html/pixasaas/webhook.php on line 58
+[10-Feb-2024 09:22:36 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'payment_id' in 'field list' in /home2/hercul27/public_html/pixasaas/webhook.php:58
+Stack trace:
+#0 /home2/hercul27/public_html/pixasaas/webhook.php(58): mysqli->query('INSERT INTO pag...')
+#1 {main}
+  thrown in /home2/hercul27/public_html/pixasaas/webhook.php on line 58
+[10-Feb-2024 09:22:38 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'payment_id' in 'field list' in /home2/hercul27/public_html/pixasaas/webhook.php:58
+Stack trace:
+#0 /home2/hercul27/public_html/pixasaas/webhook.php(58): mysqli->query('INSERT INTO pag...')
+#1 {main}
+  thrown in /home2/hercul27/public_html/pixasaas/webhook.php on line 58
+[10-Feb-2024 09:22:39 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'payment_id' in 'field list' in /home2/hercul27/public_html/pixasaas/webhook.php:58
+Stack trace:
+#0 /home2/hercul27/public_html/pixasaas/webhook.php(58): mysqli->query('INSERT INTO pag...')
+#1 {main}
+  thrown in /home2/hercul27/public_html/pixasaas/webhook.php on line 58
+[10-Feb-2024 09:22:41 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'payment_id' in 'field list' in /home2/hercul27/public_html/pixasaas/webhook.php:58
+Stack trace:
+#0 /home2/hercul27/public_html/pixasaas/webhook.php(58): mysqli->query('INSERT INTO pag...')
+#1 {main}
+  thrown in /home2/hercul27/public_html/pixasaas/webhook.php on line 58
+[10-Feb-2024 09:22:42 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'payment_id' in 'field list' in /home2/hercul27/public_html/pixasaas/webhook.php:58
+Stack trace:
+#0 /home2/hercul27/public_html/pixasaas/webhook.php(58): mysqli->query('INSERT INTO pag...')
+#1 {main}
+  thrown in /home2/hercul27/public_html/pixasaas/webhook.php on line 58
+[10-Feb-2024 09:22:44 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'payment_id' in 'field list' in /home2/hercul27/public_html/pixasaas/webhook.php:58
+Stack trace:
+#0 /home2/hercul27/public_html/pixasaas/webhook.php(58): mysqli->query('INSERT INTO pag...')
+#1 {main}
+  thrown in /home2/hercul27/public_html/pixasaas/webhook.php on line 58
+[10-Feb-2024 09:22:45 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'payment_id' in 'field list' in /home2/hercul27/public_html/pixasaas/webhook.php:58
+Stack trace:
+#0 /home2/hercul27/public_html/pixasaas/webhook.php(58): mysqli->query('INSERT INTO pag...')
+#1 {main}
+  thrown in /home2/hercul27/public_html/pixasaas/webhook.php on line 58
+[10-Feb-2024 09:22:47 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'payment_id' in 'field list' in /home2/hercul27/public_html/pixasaas/webhook.php:58
+Stack trace:
+#0 /home2/hercul27/public_html/pixasaas/webhook.php(58): mysqli->query('INSERT INTO pag...')
+#1 {main}
+  thrown in /home2/hercul27/public_html/pixasaas/webhook.php on line 58
+[10-Feb-2024 09:22:48 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'payment_id' in 'field list' in /home2/hercul27/public_html/pixasaas/webhook.php:58
+Stack trace:
+#0 /home2/hercul27/public_html/pixasaas/webhook.php(58): mysqli->query('INSERT INTO pag...')
+#1 {main}
+  thrown in /home2/hercul27/public_html/pixasaas/webhook.php on line 58
+[10-Feb-2024 09:22:50 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'payment_id' in 'field list' in /home2/hercul27/public_html/pixasaas/webhook.php:58
+Stack trace:
+#0 /home2/hercul27/public_html/pixasaas/webhook.php(58): mysqli->query('INSERT INTO pag...')
+#1 {main}
+  thrown in /home2/hercul27/public_html/pixasaas/webhook.php on line 58
+[10-Feb-2024 09:22:51 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'payment_id' in 'field list' in /home2/hercul27/public_html/pixasaas/webhook.php:58
+Stack trace:
+#0 /home2/hercul27/public_html/pixasaas/webhook.php(58): mysqli->query('INSERT INTO pag...')
+#1 {main}
+  thrown in /home2/hercul27/public_html/pixasaas/webhook.php on line 58
+[10-Feb-2024 09:22:53 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'payment_id' in 'field list' in /home2/hercul27/public_html/pixasaas/webhook.php:58
+Stack trace:
+#0 /home2/hercul27/public_html/pixasaas/webhook.php(58): mysqli->query('INSERT INTO pag...')
+#1 {main}
+  thrown in /home2/hercul27/public_html/pixasaas/webhook.php on line 58
+[10-Feb-2024 09:25:06 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'payment_id' in 'field list' in /home2/hercul27/public_html/pixasaas/webhook.php:58
+Stack trace:
+#0 /home2/hercul27/public_html/pixasaas/webhook.php(58): mysqli->query('INSERT INTO pag...')
+#1 {main}
+  thrown in /home2/hercul27/public_html/pixasaas/webhook.php on line 58
+[10-Feb-2024 09:25:06 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'payment_id' in 'field list' in /home2/hercul27/public_html/pixasaas/webhook.php:58
+Stack trace:
+#0 /home2/hercul27/public_html/pixasaas/webhook.php(58): mysqli->query('INSERT INTO pag...')
+#1 {main}
+  thrown in /home2/hercul27/public_html/pixasaas/webhook.php on line 58
+[10-Feb-2024 09:25:08 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'payment_id' in 'field list' in /home2/hercul27/public_html/pixasaas/webhook.php:58
+Stack trace:
+#0 /home2/hercul27/public_html/pixasaas/webhook.php(58): mysqli->query('INSERT INTO pag...')
+#1 {main}
+  thrown in /home2/hercul27/public_html/pixasaas/webhook.php on line 58
+[10-Feb-2024 09:25:09 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'payment_id' in 'field list' in /home2/hercul27/public_html/pixasaas/webhook.php:58
+Stack trace:
+#0 /home2/hercul27/public_html/pixasaas/webhook.php(58): mysqli->query('INSERT INTO pag...')
+#1 {main}
+  thrown in /home2/hercul27/public_html/pixasaas/webhook.php on line 58
+[10-Feb-2024 09:25:11 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'payment_id' in 'field list' in /home2/hercul27/public_html/pixasaas/webhook.php:58
+Stack trace:
+#0 /home2/hercul27/public_html/pixasaas/webhook.php(58): mysqli->query('INSERT INTO pag...')
+#1 {main}
+  thrown in /home2/hercul27/public_html/pixasaas/webhook.php on line 58
+[10-Feb-2024 09:25:12 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'payment_id' in 'field list' in /home2/hercul27/public_html/pixasaas/webhook.php:58
+Stack trace:
+#0 /home2/hercul27/public_html/pixasaas/webhook.php(58): mysqli->query('INSERT INTO pag...')
+#1 {main}
+  thrown in /home2/hercul27/public_html/pixasaas/webhook.php on line 58
+[10-Feb-2024 09:25:14 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'payment_id' in 'field list' in /home2/hercul27/public_html/pixasaas/webhook.php:58
+Stack trace:
+#0 /home2/hercul27/public_html/pixasaas/webhook.php(58): mysqli->query('INSERT INTO pag...')
+#1 {main}
+  thrown in /home2/hercul27/public_html/pixasaas/webhook.php on line 58
+[10-Feb-2024 09:25:15 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'payment_id' in 'field list' in /home2/hercul27/public_html/pixasaas/webhook.php:58
+Stack trace:
+#0 /home2/hercul27/public_html/pixasaas/webhook.php(58): mysqli->query('INSERT INTO pag...')
+#1 {main}
+  thrown in /home2/hercul27/public_html/pixasaas/webhook.php on line 58
+[10-Feb-2024 09:25:17 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'payment_id' in 'field list' in /home2/hercul27/public_html/pixasaas/webhook.php:58
+Stack trace:
+#0 /home2/hercul27/public_html/pixasaas/webhook.php(58): mysqli->query('INSERT INTO pag...')
+#1 {main}
+  thrown in /home2/hercul27/public_html/pixasaas/webhook.php on line 58
+[10-Feb-2024 09:25:18 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'payment_id' in 'field list' in /home2/hercul27/public_html/pixasaas/webhook.php:58
+Stack trace:
+#0 /home2/hercul27/public_html/pixasaas/webhook.php(58): mysqli->query('INSERT INTO pag...')
+#1 {main}
+  thrown in /home2/hercul27/public_html/pixasaas/webhook.php on line 58
+[10-Feb-2024 09:25:20 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'payment_id' in 'field list' in /home2/hercul27/public_html/pixasaas/webhook.php:58
+Stack trace:
+#0 /home2/hercul27/public_html/pixasaas/webhook.php(58): mysqli->query('INSERT INTO pag...')
+#1 {main}
+  thrown in /home2/hercul27/public_html/pixasaas/webhook.php on line 58
+[10-Feb-2024 09:25:21 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'payment_id' in 'field list' in /home2/hercul27/public_html/pixasaas/webhook.php:58
+Stack trace:
+#0 /home2/hercul27/public_html/pixasaas/webhook.php(58): mysqli->query('INSERT INTO pag...')
+#1 {main}
+  thrown in /home2/hercul27/public_html/pixasaas/webhook.php on line 58
+[10-Feb-2024 09:25:23 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'payment_id' in 'field list' in /home2/hercul27/public_html/pixasaas/webhook.php:58
+Stack trace:
+#0 /home2/hercul27/public_html/pixasaas/webhook.php(58): mysqli->query('INSERT INTO pag...')
+#1 {main}
+  thrown in /home2/hercul27/public_html/pixasaas/webhook.php on line 58
+[10-Feb-2024 09:25:24 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'payment_id' in 'field list' in /home2/hercul27/public_html/pixasaas/webhook.php:58
+Stack trace:
+#0 /home2/hercul27/public_html/pixasaas/webhook.php(58): mysqli->query('INSERT INTO pag...')
+#1 {main}
+  thrown in /home2/hercul27/public_html/pixasaas/webhook.php on line 58
+[10-Feb-2024 09:25:26 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'payment_id' in 'field list' in /home2/hercul27/public_html/pixasaas/webhook.php:58
+Stack trace:
+#0 /home2/hercul27/public_html/pixasaas/webhook.php(58): mysqli->query('INSERT INTO pag...')
+#1 {main}
+  thrown in /home2/hercul27/public_html/pixasaas/webhook.php on line 58
+[10-Feb-2024 09:31:44 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'payment_id' in 'field list' in /home2/hercul27/public_html/pixasaas/webhook.php:58
+Stack trace:
+#0 /home2/hercul27/public_html/pixasaas/webhook.php(58): mysqli->query('INSERT INTO pag...')
+#1 {main}
+  thrown in /home2/hercul27/public_html/pixasaas/webhook.php on line 58
+[10-Feb-2024 09:31:45 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'payment_id' in 'field list' in /home2/hercul27/public_html/pixasaas/webhook.php:58
+Stack trace:
+#0 /home2/hercul27/public_html/pixasaas/webhook.php(58): mysqli->query('INSERT INTO pag...')
+#1 {main}
+  thrown in /home2/hercul27/public_html/pixasaas/webhook.php on line 58
+[10-Feb-2024 09:31:46 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'payment_id' in 'field list' in /home2/hercul27/public_html/pixasaas/webhook.php:58
+Stack trace:
+#0 /home2/hercul27/public_html/pixasaas/webhook.php(58): mysqli->query('INSERT INTO pag...')
+#1 {main}
+  thrown in /home2/hercul27/public_html/pixasaas/webhook.php on line 58
+[10-Feb-2024 09:31:48 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'payment_id' in 'field list' in /home2/hercul27/public_html/pixasaas/webhook.php:58
+Stack trace:
+#0 /home2/hercul27/public_html/pixasaas/webhook.php(58): mysqli->query('INSERT INTO pag...')
+#1 {main}
+  thrown in /home2/hercul27/public_html/pixasaas/webhook.php on line 58
+[10-Feb-2024 09:31:49 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'payment_id' in 'field list' in /home2/hercul27/public_html/pixasaas/webhook.php:58
+Stack trace:
+#0 /home2/hercul27/public_html/pixasaas/webhook.php(58): mysqli->query('INSERT INTO pag...')
+#1 {main}
+  thrown in /home2/hercul27/public_html/pixasaas/webhook.php on line 58
+[10-Feb-2024 09:31:51 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'payment_id' in 'field list' in /home2/hercul27/public_html/pixasaas/webhook.php:58
+Stack trace:
+#0 /home2/hercul27/public_html/pixasaas/webhook.php(58): mysqli->query('INSERT INTO pag...')
+#1 {main}
+  thrown in /home2/hercul27/public_html/pixasaas/webhook.php on line 58
+[10-Feb-2024 09:31:52 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'payment_id' in 'field list' in /home2/hercul27/public_html/pixasaas/webhook.php:58
+Stack trace:
+#0 /home2/hercul27/public_html/pixasaas/webhook.php(58): mysqli->query('INSERT INTO pag...')
+#1 {main}
+  thrown in /home2/hercul27/public_html/pixasaas/webhook.php on line 58
+[10-Feb-2024 09:31:54 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'payment_id' in 'field list' in /home2/hercul27/public_html/pixasaas/webhook.php:58
+Stack trace:
+#0 /home2/hercul27/public_html/pixasaas/webhook.php(58): mysqli->query('INSERT INTO pag...')
+#1 {main}
+  thrown in /home2/hercul27/public_html/pixasaas/webhook.php on line 58
+[10-Feb-2024 09:31:55 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'payment_id' in 'field list' in /home2/hercul27/public_html/pixasaas/webhook.php:58
+Stack trace:
+#0 /home2/hercul27/public_html/pixasaas/webhook.php(58): mysqli->query('INSERT INTO pag...')
+#1 {main}
+  thrown in /home2/hercul27/public_html/pixasaas/webhook.php on line 58
+[10-Feb-2024 09:31:57 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'payment_id' in 'field list' in /home2/hercul27/public_html/pixasaas/webhook.php:58
+Stack trace:
+#0 /home2/hercul27/public_html/pixasaas/webhook.php(58): mysqli->query('INSERT INTO pag...')
+#1 {main}
+  thrown in /home2/hercul27/public_html/pixasaas/webhook.php on line 58
+[10-Feb-2024 09:31:58 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'payment_id' in 'field list' in /home2/hercul27/public_html/pixasaas/webhook.php:58
+Stack trace:
+#0 /home2/hercul27/public_html/pixasaas/webhook.php(58): mysqli->query('INSERT INTO pag...')
+#1 {main}
+  thrown in /home2/hercul27/public_html/pixasaas/webhook.php on line 58
+[10-Feb-2024 09:32:00 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'payment_id' in 'field list' in /home2/hercul27/public_html/pixasaas/webhook.php:58
+Stack trace:
+#0 /home2/hercul27/public_html/pixasaas/webhook.php(58): mysqli->query('INSERT INTO pag...')
+#1 {main}
+  thrown in /home2/hercul27/public_html/pixasaas/webhook.php on line 58
+[10-Feb-2024 09:32:01 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'payment_id' in 'field list' in /home2/hercul27/public_html/pixasaas/webhook.php:58
+Stack trace:
+#0 /home2/hercul27/public_html/pixasaas/webhook.php(58): mysqli->query('INSERT INTO pag...')
+#1 {main}
+  thrown in /home2/hercul27/public_html/pixasaas/webhook.php on line 58
+[10-Feb-2024 09:32:03 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'payment_id' in 'field list' in /home2/hercul27/public_html/pixasaas/webhook.php:58
+Stack trace:
+#0 /home2/hercul27/public_html/pixasaas/webhook.php(58): mysqli->query('INSERT INTO pag...')
+#1 {main}
+  thrown in /home2/hercul27/public_html/pixasaas/webhook.php on line 58
+[10-Feb-2024 09:32:04 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'payment_id' in 'field list' in /home2/hercul27/public_html/pixasaas/webhook.php:58
+Stack trace:
+#0 /home2/hercul27/public_html/pixasaas/webhook.php(58): mysqli->query('INSERT INTO pag...')
+#1 {main}
+  thrown in /home2/hercul27/public_html/pixasaas/webhook.php on line 58
+[10-Feb-2024 09:32:06 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'payment_id' in 'field list' in /home2/hercul27/public_html/pixasaas/webhook.php:58
+Stack trace:
+#0 /home2/hercul27/public_html/pixasaas/webhook.php(58): mysqli->query('INSERT INTO pag...')
+#1 {main}
+  thrown in /home2/hercul27/public_html/pixasaas/webhook.php on line 58
+[10-Feb-2024 09:32:07 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'payment_id' in 'field list' in /home2/hercul27/public_html/pixasaas/webhook.php:58
+Stack trace:
+#0 /home2/hercul27/public_html/pixasaas/webhook.php(58): mysqli->query('INSERT INTO pag...')
+#1 {main}
+  thrown in /home2/hercul27/public_html/pixasaas/webhook.php on line 58
+[10-Feb-2024 09:32:09 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'payment_id' in 'field list' in /home2/hercul27/public_html/pixasaas/webhook.php:58
+Stack trace:
+#0 /home2/hercul27/public_html/pixasaas/webhook.php(58): mysqli->query('INSERT INTO pag...')
+#1 {main}
+  thrown in /home2/hercul27/public_html/pixasaas/webhook.php on line 58
+[10-Feb-2024 09:32:10 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'payment_id' in 'field list' in /home2/hercul27/public_html/pixasaas/webhook.php:58
+Stack trace:
+#0 /home2/hercul27/public_html/pixasaas/webhook.php(58): mysqli->query('INSERT INTO pag...')
+#1 {main}
+  thrown in /home2/hercul27/public_html/pixasaas/webhook.php on line 58
+[10-Feb-2024 09:32:12 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'payment_id' in 'field list' in /home2/hercul27/public_html/pixasaas/webhook.php:58
+Stack trace:
+#0 /home2/hercul27/public_html/pixasaas/webhook.php(58): mysqli->query('INSERT INTO pag...')
+#1 {main}
+  thrown in /home2/hercul27/public_html/pixasaas/webhook.php on line 58
+[10-Feb-2024 09:32:13 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'payment_id' in 'field list' in /home2/hercul27/public_html/pixasaas/webhook.php:58
+Stack trace:
+#0 /home2/hercul27/public_html/pixasaas/webhook.php(58): mysqli->query('INSERT INTO pag...')
+#1 {main}
+  thrown in /home2/hercul27/public_html/pixasaas/webhook.php on line 58
+[10-Feb-2024 09:32:15 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'payment_id' in 'field list' in /home2/hercul27/public_html/pixasaas/webhook.php:58
+Stack trace:
+#0 /home2/hercul27/public_html/pixasaas/webhook.php(58): mysqli->query('INSERT INTO pag...')
+#1 {main}
+  thrown in /home2/hercul27/public_html/pixasaas/webhook.php on line 58
+[10-Feb-2024 09:32:16 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'payment_id' in 'field list' in /home2/hercul27/public_html/pixasaas/webhook.php:58
+Stack trace:
+#0 /home2/hercul27/public_html/pixasaas/webhook.php(58): mysqli->query('INSERT INTO pag...')
+#1 {main}
+  thrown in /home2/hercul27/public_html/pixasaas/webhook.php on line 58
+[10-Feb-2024 09:32:18 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'payment_id' in 'field list' in /home2/hercul27/public_html/pixasaas/webhook.php:58
+Stack trace:
+#0 /home2/hercul27/public_html/pixasaas/webhook.php(58): mysqli->query('INSERT INTO pag...')
+#1 {main}
+  thrown in /home2/hercul27/public_html/pixasaas/webhook.php on line 58
+[10-Feb-2024 09:32:19 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'payment_id' in 'field list' in /home2/hercul27/public_html/pixasaas/webhook.php:58
+Stack trace:
+#0 /home2/hercul27/public_html/pixasaas/webhook.php(58): mysqli->query('INSERT INTO pag...')
+#1 {main}
+  thrown in /home2/hercul27/public_html/pixasaas/webhook.php on line 58
+[10-Feb-2024 09:32:21 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'payment_id' in 'field list' in /home2/hercul27/public_html/pixasaas/webhook.php:58
+Stack trace:
+#0 /home2/hercul27/public_html/pixasaas/webhook.php(58): mysqli->query('INSERT INTO pag...')
+#1 {main}
+  thrown in /home2/hercul27/public_html/pixasaas/webhook.php on line 58
+[10-Feb-2024 09:32:22 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'payment_id' in 'field list' in /home2/hercul27/public_html/pixasaas/webhook.php:58
+Stack trace:
+#0 /home2/hercul27/public_html/pixasaas/webhook.php(58): mysqli->query('INSERT INTO pag...')
+#1 {main}
+  thrown in /home2/hercul27/public_html/pixasaas/webhook.php on line 58
+[10-Feb-2024 09:33:24 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'payment_id' in 'field list' in /home2/hercul27/public_html/pixasaas/webhook.php:58
+Stack trace:
+#0 /home2/hercul27/public_html/pixasaas/webhook.php(58): mysqli->query('INSERT INTO pag...')
+#1 {main}
+  thrown in /home2/hercul27/public_html/pixasaas/webhook.php on line 58
+[10-Feb-2024 09:33:25 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'payment_id' in 'field list' in /home2/hercul27/public_html/pixasaas/webhook.php:58
+Stack trace:
+#0 /home2/hercul27/public_html/pixasaas/webhook.php(58): mysqli->query('INSERT INTO pag...')
+#1 {main}
+  thrown in /home2/hercul27/public_html/pixasaas/webhook.php on line 58
+[10-Feb-2024 09:33:27 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'payment_id' in 'field list' in /home2/hercul27/public_html/pixasaas/webhook.php:58
+Stack trace:
+#0 /home2/hercul27/public_html/pixasaas/webhook.php(58): mysqli->query('INSERT INTO pag...')
+#1 {main}
+  thrown in /home2/hercul27/public_html/pixasaas/webhook.php on line 58
+[10-Feb-2024 09:33:28 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'payment_id' in 'field list' in /home2/hercul27/public_html/pixasaas/webhook.php:58
+Stack trace:
+#0 /home2/hercul27/public_html/pixasaas/webhook.php(58): mysqli->query('INSERT INTO pag...')
+#1 {main}
+  thrown in /home2/hercul27/public_html/pixasaas/webhook.php on line 58
+[10-Feb-2024 09:33:30 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'payment_id' in 'field list' in /home2/hercul27/public_html/pixasaas/webhook.php:58
+Stack trace:
+#0 /home2/hercul27/public_html/pixasaas/webhook.php(58): mysqli->query('INSERT INTO pag...')
+#1 {main}
+  thrown in /home2/hercul27/public_html/pixasaas/webhook.php on line 58
+[10-Feb-2024 09:33:31 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'payment_id' in 'field list' in /home2/hercul27/public_html/pixasaas/webhook.php:58
+Stack trace:
+#0 /home2/hercul27/public_html/pixasaas/webhook.php(58): mysqli->query('INSERT INTO pag...')
+#1 {main}
+  thrown in /home2/hercul27/public_html/pixasaas/webhook.php on line 58
+[10-Feb-2024 09:33:33 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'payment_id' in 'field list' in /home2/hercul27/public_html/pixasaas/webhook.php:58
+Stack trace:
+#0 /home2/hercul27/public_html/pixasaas/webhook.php(58): mysqli->query('INSERT INTO pag...')
+#1 {main}
+  thrown in /home2/hercul27/public_html/pixasaas/webhook.php on line 58
+[10-Feb-2024 09:33:34 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'payment_id' in 'field list' in /home2/hercul27/public_html/pixasaas/webhook.php:58
+Stack trace:
+#0 /home2/hercul27/public_html/pixasaas/webhook.php(58): mysqli->query('INSERT INTO pag...')
+#1 {main}
+  thrown in /home2/hercul27/public_html/pixasaas/webhook.php on line 58
+[10-Feb-2024 09:33:36 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'payment_id' in 'field list' in /home2/hercul27/public_html/pixasaas/webhook.php:58
+Stack trace:
+#0 /home2/hercul27/public_html/pixasaas/webhook.php(58): mysqli->query('INSERT INTO pag...')
+#1 {main}
+  thrown in /home2/hercul27/public_html/pixasaas/webhook.php on line 58
+[10-Feb-2024 09:33:37 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'payment_id' in 'field list' in /home2/hercul27/public_html/pixasaas/webhook.php:58
+Stack trace:
+#0 /home2/hercul27/public_html/pixasaas/webhook.php(58): mysqli->query('INSERT INTO pag...')
+#1 {main}
+  thrown in /home2/hercul27/public_html/pixasaas/webhook.php on line 58
+[10-Feb-2024 09:33:39 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'payment_id' in 'field list' in /home2/hercul27/public_html/pixasaas/webhook.php:58
+Stack trace:
+#0 /home2/hercul27/public_html/pixasaas/webhook.php(58): mysqli->query('INSERT INTO pag...')
+#1 {main}
+  thrown in /home2/hercul27/public_html/pixasaas/webhook.php on line 58
+[10-Feb-2024 09:33:40 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'payment_id' in 'field list' in /home2/hercul27/public_html/pixasaas/webhook.php:58
+Stack trace:
+#0 /home2/hercul27/public_html/pixasaas/webhook.php(58): mysqli->query('INSERT INTO pag...')
+#1 {main}
+  thrown in /home2/hercul27/public_html/pixasaas/webhook.php on line 58
+[10-Feb-2024 09:33:42 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'payment_id' in 'field list' in /home2/hercul27/public_html/pixasaas/webhook.php:58
+Stack trace:
+#0 /home2/hercul27/public_html/pixasaas/webhook.php(58): mysqli->query('INSERT INTO pag...')
+#1 {main}
+  thrown in /home2/hercul27/public_html/pixasaas/webhook.php on line 58
+[10-Feb-2024 09:33:43 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'payment_id' in 'field list' in /home2/hercul27/public_html/pixasaas/webhook.php:58
+Stack trace:
+#0 /home2/hercul27/public_html/pixasaas/webhook.php(58): mysqli->query('INSERT INTO pag...')
+#1 {main}
+  thrown in /home2/hercul27/public_html/pixasaas/webhook.php on line 58
+[10-Feb-2024 09:33:45 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'payment_id' in 'field list' in /home2/hercul27/public_html/pixasaas/webhook.php:58
+Stack trace:
+#0 /home2/hercul27/public_html/pixasaas/webhook.php(58): mysqli->query('INSERT INTO pag...')
+#1 {main}
+  thrown in /home2/hercul27/public_html/pixasaas/webhook.php on line 58
+[10-Feb-2024 09:39:23 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'payment_id' in 'field list' in /home2/hercul27/public_html/pixasaas/webhook.php:58
+Stack trace:
+#0 /home2/hercul27/public_html/pixasaas/webhook.php(58): mysqli->query('INSERT INTO pag...')
+#1 {main}
+  thrown in /home2/hercul27/public_html/pixasaas/webhook.php on line 58
+[10-Feb-2024 09:39:24 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'payment_id' in 'field list' in /home2/hercul27/public_html/pixasaas/webhook.php:58
+Stack trace:
+#0 /home2/hercul27/public_html/pixasaas/webhook.php(58): mysqli->query('INSERT INTO pag...')
+#1 {main}
+  thrown in /home2/hercul27/public_html/pixasaas/webhook.php on line 58
+[10-Feb-2024 09:39:25 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'payment_id' in 'field list' in /home2/hercul27/public_html/pixasaas/webhook.php:58
+Stack trace:
+#0 /home2/hercul27/public_html/pixasaas/webhook.php(58): mysqli->query('INSERT INTO pag...')
+#1 {main}
+  thrown in /home2/hercul27/public_html/pixasaas/webhook.php on line 58
+[10-Feb-2024 09:39:27 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'payment_id' in 'field list' in /home2/hercul27/public_html/pixasaas/webhook.php:58
+Stack trace:
+#0 /home2/hercul27/public_html/pixasaas/webhook.php(58): mysqli->query('INSERT INTO pag...')
+#1 {main}
+  thrown in /home2/hercul27/public_html/pixasaas/webhook.php on line 58
+[10-Feb-2024 09:39:28 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'payment_id' in 'field list' in /home2/hercul27/public_html/pixasaas/webhook.php:58
+Stack trace:
+#0 /home2/hercul27/public_html/pixasaas/webhook.php(58): mysqli->query('INSERT INTO pag...')
+#1 {main}
+  thrown in /home2/hercul27/public_html/pixasaas/webhook.php on line 58
+[10-Feb-2024 09:39:30 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'payment_id' in 'field list' in /home2/hercul27/public_html/pixasaas/webhook.php:58
+Stack trace:
+#0 /home2/hercul27/public_html/pixasaas/webhook.php(58): mysqli->query('INSERT INTO pag...')
+#1 {main}
+  thrown in /home2/hercul27/public_html/pixasaas/webhook.php on line 58
+[10-Feb-2024 09:39:31 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'payment_id' in 'field list' in /home2/hercul27/public_html/pixasaas/webhook.php:58
+Stack trace:
+#0 /home2/hercul27/public_html/pixasaas/webhook.php(58): mysqli->query('INSERT INTO pag...')
+#1 {main}
+  thrown in /home2/hercul27/public_html/pixasaas/webhook.php on line 58
+[10-Feb-2024 09:39:33 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'payment_id' in 'field list' in /home2/hercul27/public_html/pixasaas/webhook.php:58
+Stack trace:
+#0 /home2/hercul27/public_html/pixasaas/webhook.php(58): mysqli->query('INSERT INTO pag...')
+#1 {main}
+  thrown in /home2/hercul27/public_html/pixasaas/webhook.php on line 58
+[10-Feb-2024 09:39:34 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'payment_id' in 'field list' in /home2/hercul27/public_html/pixasaas/webhook.php:58
+Stack trace:
+#0 /home2/hercul27/public_html/pixasaas/webhook.php(58): mysqli->query('INSERT INTO pag...')
+#1 {main}
+  thrown in /home2/hercul27/public_html/pixasaas/webhook.php on line 58
+[10-Feb-2024 09:39:36 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'payment_id' in 'field list' in /home2/hercul27/public_html/pixasaas/webhook.php:58
+Stack trace:
+#0 /home2/hercul27/public_html/pixasaas/webhook.php(58): mysqli->query('INSERT INTO pag...')
+#1 {main}
+  thrown in /home2/hercul27/public_html/pixasaas/webhook.php on line 58
+[10-Feb-2024 09:39:37 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'payment_id' in 'field list' in /home2/hercul27/public_html/pixasaas/webhook.php:58
+Stack trace:
+#0 /home2/hercul27/public_html/pixasaas/webhook.php(58): mysqli->query('INSERT INTO pag...')
+#1 {main}
+  thrown in /home2/hercul27/public_html/pixasaas/webhook.php on line 58
+[10-Feb-2024 09:39:39 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'payment_id' in 'field list' in /home2/hercul27/public_html/pixasaas/webhook.php:58
+Stack trace:
+#0 /home2/hercul27/public_html/pixasaas/webhook.php(58): mysqli->query('INSERT INTO pag...')
+#1 {main}
+  thrown in /home2/hercul27/public_html/pixasaas/webhook.php on line 58
+[10-Feb-2024 09:39:40 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'payment_id' in 'field list' in /home2/hercul27/public_html/pixasaas/webhook.php:58
+Stack trace:
+#0 /home2/hercul27/public_html/pixasaas/webhook.php(58): mysqli->query('INSERT INTO pag...')
+#1 {main}
+  thrown in /home2/hercul27/public_html/pixasaas/webhook.php on line 58
+[10-Feb-2024 09:39:42 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'payment_id' in 'field list' in /home2/hercul27/public_html/pixasaas/webhook.php:58
+Stack trace:
+#0 /home2/hercul27/public_html/pixasaas/webhook.php(58): mysqli->query('INSERT INTO pag...')
+#1 {main}
+  thrown in /home2/hercul27/public_html/pixasaas/webhook.php on line 58
+[10-Feb-2024 09:39:43 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'payment_id' in 'field list' in /home2/hercul27/public_html/pixasaas/webhook.php:58
+Stack trace:
+#0 /home2/hercul27/public_html/pixasaas/webhook.php(58): mysqli->query('INSERT INTO pag...')
+#1 {main}
+  thrown in /home2/hercul27/public_html/pixasaas/webhook.php on line 58
+[10-Feb-2024 09:41:55 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'payment_id' in 'field list' in /home2/hercul27/public_html/pixasaas/webhook.php:58
+Stack trace:
+#0 /home2/hercul27/public_html/pixasaas/webhook.php(58): mysqli->query('INSERT INTO pag...')
+#1 {main}
+  thrown in /home2/hercul27/public_html/pixasaas/webhook.php on line 58
+[10-Feb-2024 09:41:57 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'payment_id' in 'field list' in /home2/hercul27/public_html/pixasaas/webhook.php:58
+Stack trace:
+#0 /home2/hercul27/public_html/pixasaas/webhook.php(58): mysqli->query('INSERT INTO pag...')
+#1 {main}
+  thrown in /home2/hercul27/public_html/pixasaas/webhook.php on line 58
+[10-Feb-2024 09:41:58 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'payment_id' in 'field list' in /home2/hercul27/public_html/pixasaas/webhook.php:58
+Stack trace:
+#0 /home2/hercul27/public_html/pixasaas/webhook.php(58): mysqli->query('INSERT INTO pag...')
+#1 {main}
+  thrown in /home2/hercul27/public_html/pixasaas/webhook.php on line 58
+[10-Feb-2024 09:42:00 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'payment_id' in 'field list' in /home2/hercul27/public_html/pixasaas/webhook.php:58
+Stack trace:
+#0 /home2/hercul27/public_html/pixasaas/webhook.php(58): mysqli->query('INSERT INTO pag...')
+#1 {main}
+  thrown in /home2/hercul27/public_html/pixasaas/webhook.php on line 58
+[10-Feb-2024 09:42:01 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'payment_id' in 'field list' in /home2/hercul27/public_html/pixasaas/webhook.php:58
+Stack trace:
+#0 /home2/hercul27/public_html/pixasaas/webhook.php(58): mysqli->query('INSERT INTO pag...')
+#1 {main}
+  thrown in /home2/hercul27/public_html/pixasaas/webhook.php on line 58
+[10-Feb-2024 09:42:03 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'payment_id' in 'field list' in /home2/hercul27/public_html/pixasaas/webhook.php:58
+Stack trace:
+#0 /home2/hercul27/public_html/pixasaas/webhook.php(58): mysqli->query('INSERT INTO pag...')
+#1 {main}
+  thrown in /home2/hercul27/public_html/pixasaas/webhook.php on line 58
+[10-Feb-2024 09:42:04 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'payment_id' in 'field list' in /home2/hercul27/public_html/pixasaas/webhook.php:58
+Stack trace:
+#0 /home2/hercul27/public_html/pixasaas/webhook.php(58): mysqli->query('INSERT INTO pag...')
+#1 {main}
+  thrown in /home2/hercul27/public_html/pixasaas/webhook.php on line 58
+[10-Feb-2024 09:42:06 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'payment_id' in 'field list' in /home2/hercul27/public_html/pixasaas/webhook.php:58
+Stack trace:
+#0 /home2/hercul27/public_html/pixasaas/webhook.php(58): mysqli->query('INSERT INTO pag...')
+#1 {main}
+  thrown in /home2/hercul27/public_html/pixasaas/webhook.php on line 58
+[10-Feb-2024 09:42:07 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'payment_id' in 'field list' in /home2/hercul27/public_html/pixasaas/webhook.php:58
+Stack trace:
+#0 /home2/hercul27/public_html/pixasaas/webhook.php(58): mysqli->query('INSERT INTO pag...')
+#1 {main}
+  thrown in /home2/hercul27/public_html/pixasaas/webhook.php on line 58
+[10-Feb-2024 09:42:09 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'payment_id' in 'field list' in /home2/hercul27/public_html/pixasaas/webhook.php:58
+Stack trace:
+#0 /home2/hercul27/public_html/pixasaas/webhook.php(58): mysqli->query('INSERT INTO pag...')
+#1 {main}
+  thrown in /home2/hercul27/public_html/pixasaas/webhook.php on line 58
+[10-Feb-2024 09:42:10 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'payment_id' in 'field list' in /home2/hercul27/public_html/pixasaas/webhook.php:58
+Stack trace:
+#0 /home2/hercul27/public_html/pixasaas/webhook.php(58): mysqli->query('INSERT INTO pag...')
+#1 {main}
+  thrown in /home2/hercul27/public_html/pixasaas/webhook.php on line 58
+[10-Feb-2024 09:42:12 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'payment_id' in 'field list' in /home2/hercul27/public_html/pixasaas/webhook.php:58
+Stack trace:
+#0 /home2/hercul27/public_html/pixasaas/webhook.php(58): mysqli->query('INSERT INTO pag...')
+#1 {main}
+  thrown in /home2/hercul27/public_html/pixasaas/webhook.php on line 58
+[10-Feb-2024 09:42:13 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'payment_id' in 'field list' in /home2/hercul27/public_html/pixasaas/webhook.php:58
+Stack trace:
+#0 /home2/hercul27/public_html/pixasaas/webhook.php(58): mysqli->query('INSERT INTO pag...')
+#1 {main}
+  thrown in /home2/hercul27/public_html/pixasaas/webhook.php on line 58
+[10-Feb-2024 09:42:15 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'payment_id' in 'field list' in /home2/hercul27/public_html/pixasaas/webhook.php:58
+Stack trace:
+#0 /home2/hercul27/public_html/pixasaas/webhook.php(58): mysqli->query('INSERT INTO pag...')
+#1 {main}
+  thrown in /home2/hercul27/public_html/pixasaas/webhook.php on line 58
+[10-Feb-2024 09:42:16 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'payment_id' in 'field list' in /home2/hercul27/public_html/pixasaas/webhook.php:58
+Stack trace:
+#0 /home2/hercul27/public_html/pixasaas/webhook.php(58): mysqli->query('INSERT INTO pag...')
+#1 {main}
+  thrown in /home2/hercul27/public_html/pixasaas/webhook.php on line 58
+[10-Feb-2024 09:51:24 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'payment_id' in 'field list' in /home2/hercul27/public_html/pixasaas/webhook.php:58
+Stack trace:
+#0 /home2/hercul27/public_html/pixasaas/webhook.php(58): mysqli->query('INSERT INTO pag...')
+#1 {main}
+  thrown in /home2/hercul27/public_html/pixasaas/webhook.php on line 58
+[10-Feb-2024 09:51:25 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'payment_id' in 'field list' in /home2/hercul27/public_html/pixasaas/webhook.php:58
+Stack trace:
+#0 /home2/hercul27/public_html/pixasaas/webhook.php(58): mysqli->query('INSERT INTO pag...')
+#1 {main}
+  thrown in /home2/hercul27/public_html/pixasaas/webhook.php on line 58
+[10-Feb-2024 09:51:27 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'payment_id' in 'field list' in /home2/hercul27/public_html/pixasaas/webhook.php:58
+Stack trace:
+#0 /home2/hercul27/public_html/pixasaas/webhook.php(58): mysqli->query('INSERT INTO pag...')
+#1 {main}
+  thrown in /home2/hercul27/public_html/pixasaas/webhook.php on line 58
+[10-Feb-2024 09:51:28 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'payment_id' in 'field list' in /home2/hercul27/public_html/pixasaas/webhook.php:58
+Stack trace:
+#0 /home2/hercul27/public_html/pixasaas/webhook.php(58): mysqli->query('INSERT INTO pag...')
+#1 {main}
+  thrown in /home2/hercul27/public_html/pixasaas/webhook.php on line 58
+[10-Feb-2024 09:51:30 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'payment_id' in 'field list' in /home2/hercul27/public_html/pixasaas/webhook.php:58
+Stack trace:
+#0 /home2/hercul27/public_html/pixasaas/webhook.php(58): mysqli->query('INSERT INTO pag...')
+#1 {main}
+  thrown in /home2/hercul27/public_html/pixasaas/webhook.php on line 58
+[10-Feb-2024 09:51:31 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'payment_id' in 'field list' in /home2/hercul27/public_html/pixasaas/webhook.php:58
+Stack trace:
+#0 /home2/hercul27/public_html/pixasaas/webhook.php(58): mysqli->query('INSERT INTO pag...')
+#1 {main}
+  thrown in /home2/hercul27/public_html/pixasaas/webhook.php on line 58
+[10-Feb-2024 09:51:33 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'payment_id' in 'field list' in /home2/hercul27/public_html/pixasaas/webhook.php:58
+Stack trace:
+#0 /home2/hercul27/public_html/pixasaas/webhook.php(58): mysqli->query('INSERT INTO pag...')
+#1 {main}
+  thrown in /home2/hercul27/public_html/pixasaas/webhook.php on line 58
+[10-Feb-2024 09:51:34 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'payment_id' in 'field list' in /home2/hercul27/public_html/pixasaas/webhook.php:58
+Stack trace:
+#0 /home2/hercul27/public_html/pixasaas/webhook.php(58): mysqli->query('INSERT INTO pag...')
+#1 {main}
+  thrown in /home2/hercul27/public_html/pixasaas/webhook.php on line 58
+[10-Feb-2024 09:51:36 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'payment_id' in 'field list' in /home2/hercul27/public_html/pixasaas/webhook.php:58
+Stack trace:
+#0 /home2/hercul27/public_html/pixasaas/webhook.php(58): mysqli->query('INSERT INTO pag...')
+#1 {main}
+  thrown in /home2/hercul27/public_html/pixasaas/webhook.php on line 58
+[10-Feb-2024 09:51:37 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'payment_id' in 'field list' in /home2/hercul27/public_html/pixasaas/webhook.php:58
+Stack trace:
+#0 /home2/hercul27/public_html/pixasaas/webhook.php(58): mysqli->query('INSERT INTO pag...')
+#1 {main}
+  thrown in /home2/hercul27/public_html/pixasaas/webhook.php on line 58
+[10-Feb-2024 09:51:39 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'payment_id' in 'field list' in /home2/hercul27/public_html/pixasaas/webhook.php:58
+Stack trace:
+#0 /home2/hercul27/public_html/pixasaas/webhook.php(58): mysqli->query('INSERT INTO pag...')
+#1 {main}
+  thrown in /home2/hercul27/public_html/pixasaas/webhook.php on line 58
+[10-Feb-2024 09:51:40 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'payment_id' in 'field list' in /home2/hercul27/public_html/pixasaas/webhook.php:58
+Stack trace:
+#0 /home2/hercul27/public_html/pixasaas/webhook.php(58): mysqli->query('INSERT INTO pag...')
+#1 {main}
+  thrown in /home2/hercul27/public_html/pixasaas/webhook.php on line 58
+[10-Feb-2024 09:51:42 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'payment_id' in 'field list' in /home2/hercul27/public_html/pixasaas/webhook.php:58
+Stack trace:
+#0 /home2/hercul27/public_html/pixasaas/webhook.php(58): mysqli->query('INSERT INTO pag...')
+#1 {main}
+  thrown in /home2/hercul27/public_html/pixasaas/webhook.php on line 58
+[10-Feb-2024 09:51:43 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'payment_id' in 'field list' in /home2/hercul27/public_html/pixasaas/webhook.php:58
+Stack trace:
+#0 /home2/hercul27/public_html/pixasaas/webhook.php(58): mysqli->query('INSERT INTO pag...')
+#1 {main}
+  thrown in /home2/hercul27/public_html/pixasaas/webhook.php on line 58
+[10-Feb-2024 09:51:45 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'payment_id' in 'field list' in /home2/hercul27/public_html/pixasaas/webhook.php:58
+Stack trace:
+#0 /home2/hercul27/public_html/pixasaas/webhook.php(58): mysqli->query('INSERT INTO pag...')
+#1 {main}
+  thrown in /home2/hercul27/public_html/pixasaas/webhook.php on line 58
